@@ -1,0 +1,1447 @@
+﻿Log file open, 10/25/19 17:09:47
+LogWindows: Failed to load 'aqProf.dll' (GetLastError=126)
+LogWindows: File 'aqProf.dll' does not exist
+LogWindows: Failed to load 'VtuneApi.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi.dll' does not exist
+LogWindows: Failed to load 'VtuneApi32e.dll' (GetLastError=126)
+LogWindows: File 'VtuneApi32e.dll' does not exist
+LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+LogInit: Display: Running engine for game: EscapeTheRoom
+LogPlatformFile: Not using cached read wrapper
+LogTaskGraph: Started task graph with 5 named threads and 23 total threads with 3 sets of task threads.
+LogStats: Stats thread started at 0.072449
+LogD3D11RHI: Loaded GFSDK_Aftermath_Lib.x64.dll
+LogICUInternationalization: ICU TimeZone Detection - Raw Offset: -5:00, Platform Override: ''
+LogPluginManager: Mounting plugin Paper2D
+LogPluginManager: Mounting plugin AISupport
+LogPluginManager: Mounting plugin LightPropagationVolume
+LogPluginManager: Mounting plugin ActorLayerUtilities
+LogPluginManager: Mounting plugin AnimationSharing
+LogPluginManager: Mounting plugin CLionSourceCodeAccess
+LogPluginManager: Mounting plugin CodeLiteSourceCodeAccess
+LogPluginManager: Mounting plugin GitSourceControl
+LogPluginManager: Mounting plugin KDevelopSourceCodeAccess
+LogPluginManager: Mounting plugin NullSourceCodeAccess
+LogPluginManager: Mounting plugin PerforceSourceControl
+LogPluginManager: Mounting plugin SubversionSourceControl
+LogPluginManager: Mounting plugin UObjectPlugin
+LogPluginManager: Mounting plugin VisualStudioCodeSourceCodeAccess
+LogPluginManager: Mounting plugin VisualStudioSourceCodeAccess
+LogPluginManager: Mounting plugin XCodeSourceCodeAccess
+LogPluginManager: Mounting plugin AssetManagerEditor
+LogPluginManager: Mounting plugin CryptoKeys
+LogPluginManager: Mounting plugin CurveEditorTools
+LogPluginManager: Mounting plugin DataValidation
+LogPluginManager: Mounting plugin FacialAnimation
+LogPluginManager: Mounting plugin GameplayTagsEditor
+LogPluginManager: Mounting plugin MacGraphicsSwitching
+LogPluginManager: Mounting plugin MaterialAnalyzer
+LogPluginManager: Mounting plugin MobileLauncherProfileWizard
+LogPluginManager: Mounting plugin PluginBrowser
+LogPluginManager: Mounting plugin SpeedTreeImporter
+LogPluginManager: Mounting plugin DatasmithContent
+LogPluginManager: Mounting plugin VariantManagerContent
+LogPluginManager: Mounting plugin AlembicImporter
+LogPluginManager: Mounting plugin AutomationUtils
+LogPluginManager: Mounting plugin BackChannel
+LogPluginManager: Mounting plugin CharacterAI
+LogPluginManager: Mounting plugin GeometryCache
+LogPluginManager: Mounting plugin HTML5Networking
+LogPluginManager: Mounting plugin PlatformCrypto
+LogPluginManager: Mounting plugin ProxyLODPlugin
+LogPluginManager: Mounting plugin SkeletalReduction
+LogPluginManager: Mounting plugin MagicLeap
+LogPluginManager: Mounting plugin MagicLeapMedia
+LogPluginManager: Mounting plugin AndroidMedia
+LogPluginManager: Mounting plugin AvfMedia
+LogPluginManager: Mounting plugin ImgMedia
+LogPluginManager: Mounting plugin MediaCompositing
+LogPluginManager: Mounting plugin MediaPlayerEditor
+LogPluginManager: Mounting plugin WebMMedia
+LogPluginManager: Mounting plugin WmfMedia
+LogPluginManager: Mounting plugin TcpMessaging
+LogPluginManager: Mounting plugin UdpMessaging
+LogPluginManager: Mounting plugin ActorSequence
+LogPluginManager: Mounting plugin LevelSequenceEditor
+LogPluginManager: Mounting plugin MatineeToLevelSequence
+LogPluginManager: Mounting plugin NetcodeUnitTest
+LogPluginManager: Mounting plugin NUTUnrealEngine4
+LogPluginManager: Mounting plugin OnlineSubsystemGooglePlay
+LogPluginManager: Mounting plugin OnlineSubsystemIOS
+LogPluginManager: Mounting plugin OnlineSubsystem
+LogPluginManager: Mounting plugin OnlineSubsystemNull
+LogPluginManager: Mounting plugin OnlineSubsystemUtils
+LogPluginManager: Mounting plugin LauncherChunkInstaller
+LogPluginManager: Mounting plugin AndroidDeviceProfileSelector
+LogPluginManager: Mounting plugin AndroidMoviePlayer
+LogPluginManager: Mounting plugin AndroidPermission
+LogPluginManager: Mounting plugin AppleImageUtils
+LogPluginManager: Mounting plugin AppleMoviePlayer
+LogPluginManager: Mounting plugin ArchVisCharacter
+LogPluginManager: Mounting plugin AudioCapture
+LogPluginManager: Mounting plugin CableComponent
+LogPluginManager: Mounting plugin CustomMeshComponent
+LogPluginManager: Mounting plugin EditableMesh
+LogPluginManager: Mounting plugin ExampleDeviceProfileSelector
+LogPluginManager: Mounting plugin GoogleCloudMessaging
+LogPluginManager: Mounting plugin IOSDeviceProfileSelector
+LogPluginManager: Mounting plugin LinuxDeviceProfileSelector
+LogPluginManager: Mounting plugin LocationServicesBPLibrary
+LogPluginManager: Mounting plugin MobilePatchingUtils
+LogPluginManager: Mounting plugin OculusVR
+LogPluginManager: Mounting plugin PhysXVehicles
+LogPluginManager: Mounting plugin ProceduralMeshComponent
+LogPluginManager: Mounting plugin RuntimePhysXCooking
+LogPluginManager: Mounting plugin SignificanceManager
+LogPluginManager: Mounting plugin SteamVR
+LogPluginManager: Mounting plugin WebMMoviePlayer
+LogPluginManager: Mounting plugin WindowsMoviePlayer
+LogPluginManager: Mounting plugin ScreenshotTools
+LogInit: Using libcurl 7.55.1-DEV
+LogInit:  - built for x86_64-pc-win32
+LogInit:  - supports SSL with OpenSSL/1.1.1
+LogInit:  - supports HTTP deflate (compression) using libz 1.2.8
+LogInit:  - other features:
+LogInit:      CURL_VERSION_SSL
+LogInit:      CURL_VERSION_LIBZ
+LogInit:      CURL_VERSION_IPV6
+LogInit:      CURL_VERSION_ASYNCHDNS
+LogInit:      CURL_VERSION_LARGEFILE
+LogInit:      CURL_VERSION_IDN
+LogInit:  CurlRequestOptions (configurable via config and command line):
+LogInit:  - bVerifyPeer = true  - Libcurl will verify peer certificate
+LogInit:  - bUseHttpProxy = false  - Libcurl will NOT use HTTP proxy
+LogInit:  - bDontReuseConnections = false  - Libcurl will reuse connections
+LogInit:  - MaxHostConnections = 16  - Libcurl will limit the number of connections to a host
+LogInit:  - LocalHostAddr = Default
+LogInit:  - BufferSize = 65536
+LogOnline: OSS: Creating online subsystem instance for: NULL
+LogInit: WinSock: version 1.1 (2.2), MaxSocks=32767, MaxUdp=65467
+LogInit: Build: ++UE4+Release-4.23-CL-8386587
+LogInit: Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Compatible Engine Version: 4.23.0-8386587+++UE4+Release-4.23
+LogInit: Net CL: 8386587
+LogInit: OS: Windows 10 (Release 1903) (), CPU: Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz, GPU: NVIDIA GeForce GTX 1060
+LogInit: Compiled (64-bit): Aug 31 2019 02:04:44
+LogInit: Compiled with Visual C++: 19.16.27030.01
+LogInit: Build Configuration: Development
+LogInit: Branch Name: ++UE4+Release-4.23
+LogInit: Command Line:  -EpicPortal -epicusername=NeogearNeon -epicuserid=e9022c6f7890478b8b17352fdeaaf2d4 -epiclocale=en-US
+LogInit: Base Directory: D:/Epic Games/UE_4.23/Engine/Binaries/Win64/
+LogInit: Installed Engine Build: 1
+LogDevObjectVersion: Number of dev versions registered: 23
+LogDevObjectVersion:   Dev-Blueprints (B0D832E4-1F89-4F0D-ACCF-7EB736FD4AA2): 10
+LogDevObjectVersion:   Dev-Build (E1C64328-A22C-4D53-A36C-8E866417BD8C): 0
+LogDevObjectVersion:   Dev-Core (375EC13C-06E4-48FB-B500-84F0262A717E): 3
+LogDevObjectVersion:   Dev-Editor (E4B068ED-F494-42E9-A231-DA0B2E46BB41): 34
+LogDevObjectVersion:   Dev-Framework (CFFC743F-43B0-4480-9391-14DF171D2073): 35
+LogDevObjectVersion:   Dev-Mobile (B02B49B5-BB20-44E9-A304-32B752E40360): 2
+LogDevObjectVersion:   Dev-Networking (A4E4105C-59A1-49B5-A7C5-40C4547EDFEE): 0
+LogDevObjectVersion:   Dev-Online (39C831C9-5AE6-47DC-9A44-9C173E1C8E7C): 0
+LogDevObjectVersion:   Dev-Physics (78F01B33-EBEA-4F98-B9B4-84EACCB95AA2): 0
+LogDevObjectVersion:   Dev-Platform (6631380F-2D4D-43E0-8009-CF276956A95A): 0
+LogDevObjectVersion:   Dev-Rendering (12F88B9F-8875-4AFC-A67C-D90C383ABD29): 31
+LogDevObjectVersion:   Dev-Sequencer (7B5AE74C-D270-4C10-A958-57980B212A5A): 11
+LogDevObjectVersion:   Dev-VR (D7296918-1DD6-4BDD-9DE2-64A83CC13884): 2
+LogDevObjectVersion:   Dev-LoadTimes (C2A15278-BFE7-4AFE-6C17-90FF531DF755): 1
+LogDevObjectVersion:   Private-Geometry (6EACA3D4-40EC-4CC1-B786-8BED09428FC5): 3
+LogDevObjectVersion:   Dev-AnimPhys (29E575DD-E0A3-4627-9D10-D276232CDCEA): 17
+LogDevObjectVersion:   Dev-Anim (AF43A65D-7FD3-4947-9873-3E8ED9C1BB05): 2
+LogDevObjectVersion:   Dev-ReflectionCapture (6B266CEC-1EC7-4B8F-A30B-E4D90942FC07): 1
+LogDevObjectVersion:   Dev-Automation (0DF73D61-A23F-47EA-B727-89E90C41499A): 1
+LogDevObjectVersion:   FortniteMain (601D1886-AC64-4F84-AA16-D3DE0DEAC7D6): 27
+LogDevObjectVersion:   Dev-Enterprise (9DFFBCD6-494F-0158-E221-12823C92A888): 6
+LogDevObjectVersion:   Dev-Niagara (F2AED0AC-9AFE-416F-8664-AA7FFA26D6FC): 1
+LogDevObjectVersion:   Dev-Destruction (174F1F0B-B4C6-45A5-B13F-2EE8D0FB917D): 9
+LogInit: Presizing for max 16777216 objects, including 0 objects not considered by GC, pre-allocating 0 bytes for permanent pool.
+LogInit: Object subsystem initialized
+LogConfig: Setting CVar [[con.DebugEarlyDefault:1]]
+LogConfig: Setting CVar [[r.setres:1280x720]]
+[2019.10.25-21.09.47:252][  0]LogConfig: Setting CVar [[r.VSync:0]]
+[2019.10.25-21.09.47:252][  0]LogConfig: Setting CVar [[r.RHICmdBypass:0]]
+[2019.10.25-21.09.47:252][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererSettings] File [C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Saved/Config/Windows/Engine.ini]
+[2019.10.25-21.09.47:252][  0]LogConfig: Setting CVar [[r.GPUCrashDebugging:0]]
+[2019.10.25-21.09.47:252][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.RendererOverrideSettings] File [C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Saved/Config/Windows/Engine.ini]
+[2019.10.25-21.09.47:252][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.StreamingSettings] File [C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Saved/Config/Windows/Engine.ini]
+[2019.10.25-21.09.47:252][  0]LogConfig: Setting CVar [[s.MinBulkDataSizeForAsyncLoading:131072]]
+[2019.10.25-21.09.47:252][  0]LogConfig: Setting CVar [[s.AsyncLoadingThreadEnabled:0]]
+[2019.10.25-21.09.47:252][  0]LogConfig: Setting CVar [[s.EventDrivenLoaderEnabled:1]]
+[2019.10.25-21.09.47:252][  0]LogConfig: Setting CVar [[s.WarnIfTimeLimitExceeded:0]]
+[2019.10.25-21.09.47:252][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMultiplier:1.5]]
+[2019.10.25-21.09.47:252][  0]LogConfig: Setting CVar [[s.TimeLimitExceededMinTime:0.005]]
+[2019.10.25-21.09.47:252][  0]LogConfig: Setting CVar [[s.UseBackgroundLevelStreaming:1]]
+[2019.10.25-21.09.47:252][  0]LogConfig: Setting CVar [[s.PriorityAsyncLoadingExtraTime:15.0]]
+[2019.10.25-21.09.47:253][  0]LogConfig: Setting CVar [[s.LevelStreamingActorsUpdateTimeLimit:5.0]]
+[2019.10.25-21.09.47:253][  0]LogConfig: Setting CVar [[s.PriorityLevelStreamingActorsUpdateExtraTime:5.0]]
+[2019.10.25-21.09.47:253][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsRegistrationGranularity:10]]
+[2019.10.25-21.09.47:253][  0]LogConfig: Setting CVar [[s.UnregisterComponentsTimeLimit:1.0]]
+[2019.10.25-21.09.47:253][  0]LogConfig: Setting CVar [[s.LevelStreamingComponentsUnregistrationGranularity:5]]
+[2019.10.25-21.09.47:253][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.GarbageCollectionSettings] File [C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Saved/Config/Windows/Engine.ini]
+[2019.10.25-21.09.47:253][  0]LogConfig: Setting CVar [[gc.MaxObjectsNotConsideredByGC:1]]
+[2019.10.25-21.09.47:253][  0]LogConfig: Setting CVar [[gc.SizeOfPermanentObjectPool:0]]
+[2019.10.25-21.09.47:253][  0]LogConfig: Setting CVar [[gc.FlushStreamingOnGC:0]]
+[2019.10.25-21.09.47:253][  0]LogConfig: Setting CVar [[gc.NumRetriesBeforeForcingGC:10]]
+[2019.10.25-21.09.47:253][  0]LogConfig: Setting CVar [[gc.AllowParallelGC:1]]
+[2019.10.25-21.09.47:253][  0]LogConfig: Setting CVar [[gc.TimeBetweenPurgingPendingKillObjects:61.1]]
+[2019.10.25-21.09.47:253][  0]LogConfig: Setting CVar [[gc.MaxObjectsInEditor:16777216]]
+[2019.10.25-21.09.47:253][  0]LogConfig: Setting CVar [[gc.IncrementalBeginDestroyEnabled:1]]
+[2019.10.25-21.09.47:253][  0]LogConfig: Setting CVar [[gc.CreateGCClusters:1]]
+[2019.10.25-21.09.47:253][  0]LogConfig: Setting CVar [[gc.MinGCClusterSize:5]]
+[2019.10.25-21.09.47:253][  0]LogConfig: Setting CVar [[gc.ActorClusteringEnabled:0]]
+[2019.10.25-21.09.47:253][  0]LogConfig: Setting CVar [[gc.BlueprintClusteringEnabled:0]]
+[2019.10.25-21.09.47:253][  0]LogConfig: Setting CVar [[gc.UseDisregardForGCOnDedicatedServers:0]]
+[2019.10.25-21.09.47:253][  0]LogConfig: Applying CVar settings from Section [/Script/Engine.NetworkSettings] File [C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Saved/Config/Windows/Engine.ini]
+[2019.10.25-21.09.47:253][  0]LogConfig: Applying CVar settings from Section [/Script/UnrealEd.CookerSettings] File [C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Saved/Config/Windows/Engine.ini]
+[2019.10.25-21.09.47:259][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-21.09.47:259][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.25-21.09.47:259][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.25-21.09.47:259][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-21.09.47:259][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.25-21.09.47:259][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.25-21.09.47:260][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.25-21.09.47:261][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.25-21.09.47:261][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.25-21.09.47:261][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.25-21.09.47:261][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.25-21.09.47:261][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.25-21.09.47:261][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.25-21.09.47:261][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.25-21.09.47:261][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.25-21.09.47:261][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.25-21.09.47:261][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.25-21.09.47:261][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.25-21.09.47:261][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-21.09.47:261][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.25-21.09.47:261][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.25-21.09.47:261][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.25-21.09.47:261][  0]LogInit: Applying CVar settings loaded from the selected device profile: [Windows]
+[2019.10.25-21.09.47:263][  0]LogHAL: Display: Platform has ~ 32 GB [34275274752 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.25-21.09.47:263][  0]LogInit: Going up to parent DeviceProfile []
+[2019.10.25-21.09.47:263][  0]LogConfig: Applying CVar settings from Section [ViewDistanceQuality@3] File [C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-21.09.47:263][  0]LogConfig: Setting CVar [[r.SkeletalMeshLODBias:0]]
+[2019.10.25-21.09.47:263][  0]LogConfig: Setting CVar [[r.ViewDistanceScale:1.0]]
+[2019.10.25-21.09.47:263][  0]LogConfig: Applying CVar settings from Section [AntiAliasingQuality@3] File [C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-21.09.47:263][  0]LogConfig: Setting CVar [[r.PostProcessAAQuality:4]]
+[2019.10.25-21.09.47:263][  0]LogConfig: Applying CVar settings from Section [ShadowQuality@3] File [C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-21.09.47:263][  0]LogConfig: Setting CVar [[r.LightFunctionQuality:1]]
+[2019.10.25-21.09.47:263][  0]LogConfig: Setting CVar [[r.ShadowQuality:5]]
+[2019.10.25-21.09.47:263][  0]LogConfig: Setting CVar [[r.Shadow.CSM.MaxCascades:10]]
+[2019.10.25-21.09.47:263][  0]LogConfig: Setting CVar [[r.Shadow.MaxResolution:2048]]
+[2019.10.25-21.09.47:263][  0]LogConfig: Setting CVar [[r.Shadow.MaxCSMResolution:2048]]
+[2019.10.25-21.09.47:263][  0]LogConfig: Setting CVar [[r.Shadow.RadiusThreshold:0.01]]
+[2019.10.25-21.09.47:263][  0]LogConfig: Setting CVar [[r.Shadow.DistanceScale:1.0]]
+[2019.10.25-21.09.47:263][  0]LogConfig: Setting CVar [[r.Shadow.CSM.TransitionScale:1.0]]
+[2019.10.25-21.09.47:263][  0]LogConfig: Setting CVar [[r.Shadow.PreShadowResolutionFactor:1.0]]
+[2019.10.25-21.09.47:263][  0]LogConfig: Setting CVar [[r.DistanceFieldShadowing:1]]
+[2019.10.25-21.09.47:263][  0]LogConfig: Setting CVar [[r.DistanceFieldAO:1]]
+[2019.10.25-21.09.47:263][  0]LogConfig: Setting CVar [[r.AOQuality:2]]
+[2019.10.25-21.09.47:263][  0]LogConfig: Setting CVar [[r.VolumetricFog:1]]
+[2019.10.25-21.09.47:263][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridPixelSize:8]]
+[2019.10.25-21.09.47:263][  0]LogConfig: Setting CVar [[r.VolumetricFog.GridSizeZ:128]]
+[2019.10.25-21.09.47:263][  0]LogConfig: Setting CVar [[r.VolumetricFog.HistoryMissSupersampleCount:4]]
+[2019.10.25-21.09.47:263][  0]LogConfig: Setting CVar [[r.LightMaxDrawDistanceScale:1]]
+[2019.10.25-21.09.47:263][  0]LogConfig: Setting CVar [[r.CapsuleShadows:1]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Applying CVar settings from Section [PostProcessQuality@3] File [C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.MotionBlurQuality:4]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMipLevelFactor:0.4]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.AmbientOcclusionMaxQuality:100]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.AmbientOcclusionLevels:-1]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.AmbientOcclusionRadiusScale:1.0]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.DepthOfFieldQuality:2]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.RenderTargetPoolMin:400]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.LensFlareQuality:2]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.SceneColorFringeQuality:1]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.EyeAdaptationQuality:2]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.BloomQuality:5]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.FastBlurThreshold:100]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.Upscale.Quality:3]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.Tonemapper.GrainQuantization:1]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.LightShaftQuality:1]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.Filter.SizeScale:1]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.Tonemapper.Quality:5]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.DOF.Gather.AccumulatorQuality:1        ; higher gathering accumulator quality]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.DOF.Gather.PostfilterMethod:1          ; Median3x3 postfilering method]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.DOF.Gather.EnableBokehSettings:0       ; no bokeh simulation when gathering]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.DOF.Gather.RingCount:4                 ; medium number of samples when gathering]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.DOF.Scatter.ForegroundCompositing:1    ; additive foreground scattering]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.DOF.Scatter.BackgroundCompositing:2    ; additive background scattering]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.DOF.Scatter.EnableBokehSettings:1      ; bokeh simulation when scattering]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.DOF.Scatter.MaxSpriteRatio:0.1         ; only a maximum of 10% of scattered bokeh]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.DOF.Recombine.Quality:1                ; cheap slight out of focus]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.DOF.Recombine.EnableBokehSettings:0    ; no bokeh simulation on slight out of focus]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.DOF.TemporalAAQuality:1                ; more stable temporal accumulation]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxForegroundRadius:0.025]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.DOF.Kernel.MaxBackgroundRadius:0.025]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Applying CVar settings from Section [TextureQuality@3] File [C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.Streaming.MipBias:0]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.Streaming.AmortizeCPUToGPUCopy:0]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.Streaming.MaxNumTexturesToStreamPerFrame:0]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.Streaming.Boost:1]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.MaxAnisotropy:8]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.Streaming.LimitPoolSizeToVRAM:0]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.Streaming.PoolSize:1000]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.Streaming.MaxEffectiveScreenSize:0]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Applying CVar settings from Section [EffectsQuality@3] File [C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.TranslucencyLightingVolumeDim:64]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.RefractionQuality:2]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.SSR.Quality:3]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.SceneColorFormat:4]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.DetailMode:2]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.TranslucencyVolumeBlur:1]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.MaterialQualityLevel:1 ; High quality]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.SSS.Scale:1]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.SSS.SampleSet:2]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.SSS.Quality:1]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.SSS.HalfRes:1]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.EmitterSpawnRateScale:1.0]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[r.ParticleLightQuality:2]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Applying CVar settings from Section [FoliageQuality@3] File [C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Saved/Config/Windows/Scalability.ini]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[foliage.DensityScale:1.0]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Setting CVar [[grass.DensityScale:1.0]]
+[2019.10.25-21.09.47:264][  0]LogConfig: Applying CVar settings from Section [Startup] File [../../../Engine/Config/ConsoleVariables.ini]
+[2019.10.25-21.09.47:265][  0]LogConfig: Setting CVar [[net.UseAdaptiveNetUpdateFrequency:0]]
+[2019.10.25-21.09.47:265][  0]LogConfig: Setting CVar [[p.chaos.AllowCreatePhysxBodies:1]]
+[2019.10.25-21.09.47:265][  0]LogConfig: Applying CVar settings from Section [ConsoleVariables] File [C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Saved/Config/Windows/Engine.ini]
+[2019.10.25-21.09.47:265][  0]LogInit: Computer: DESKTOP-BR5DGSH
+[2019.10.25-21.09.47:265][  0]LogInit: User: CarterShipes
+[2019.10.25-21.09.47:265][  0]LogInit: CPU Page size=4096, Cores=4
+[2019.10.25-21.09.47:265][  0]LogInit: High frequency timer resolution =10.000000 MHz
+[2019.10.25-21.09.47:265][  0]LogMemory: Memory total: Physical=31.9GB (32GB approx)
+[2019.10.25-21.09.47:265][  0]LogMemory: Platform Memory Stats for Windows
+[2019.10.25-21.09.47:265][  0]LogMemory: Process Physical Memory: 100.61 MB used, 100.61 MB peak
+[2019.10.25-21.09.47:265][  0]LogMemory: Process Virtual Memory: 88.66 MB used, 88.66 MB peak
+[2019.10.25-21.09.47:265][  0]LogMemory: Physical Memory: 11589.53 MB used,  21097.92 MB free, 32687.45 MB total
+[2019.10.25-21.09.47:265][  0]LogMemory: Virtual Memory: 4656.36 MB used,  134213072.00 MB free, 134217728.00 MB total
+[2019.10.25-21.09.47:269][  0]LogWindows: WindowsPlatformFeatures enabled
+[2019.10.25-21.09.47:295][  0]LogInit: Using OS detected language (en-US).
+[2019.10.25-21.09.47:296][  0]LogInit: Using OS detected locale (en-US).
+[2019.10.25-21.09.47:296][  0]LogTextLocalizationManager: No specific localization for 'en-US' exists, so the 'en' localization will be used.
+[2019.10.25-21.09.47:480][  0]LogInit: Setting process to per monitor DPI aware
+[2019.10.25-21.09.47:520][  0]LogSlate: New Slate User Created.  User Index 0, Is Virtual User: 0
+[2019.10.25-21.09.47:520][  0]LogSlate: Slate User Registered.  User Index 0, Is Virtual User: 0
+[2019.10.25-21.09.47:702][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.25-21.09.47:702][  0]LogD3D11RHI: D3D11 adapters:
+[2019.10.25-21.09.47:783][  0]LogD3D11RHI:    0. 'NVIDIA GeForce GTX 1060' (Feature Level 11_0)
+[2019.10.25-21.09.47:783][  0]LogD3D11RHI:       6052/0/16343 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:2, VendorId:0x10de
+[2019.10.25-21.09.47:785][  0]LogD3D11RHI:    1. 'Microsoft Basic Render Driver' (Feature Level 11_0)
+[2019.10.25-21.09.47:785][  0]LogD3D11RHI:       0/0/16343 MB DedicatedVideo/DedicatedSystem/SharedSystem, Outputs:0, VendorId:0x1414
+[2019.10.25-21.09.47:785][  0]LogD3D11RHI: Chosen D3D11 Adapter: 0
+[2019.10.25-21.09.47:792][  0]LogD3D11RHI: Creating new Direct3DDevice
+[2019.10.25-21.09.47:792][  0]LogD3D11RHI:     GPU DeviceId: 0x1c60 (for the marketing name, search the web for "GPU Device Id")
+[2019.10.25-21.09.47:792][  0]LogWindows: EnumDisplayDevices:
+[2019.10.25-21.09.47:792][  0]LogWindows:    0. 'NVIDIA GeForce GTX 1060' (P:1 D:1)
+[2019.10.25-21.09.47:792][  0]LogWindows:    1. 'NVIDIA GeForce GTX 1060' (P:0 D:1)
+[2019.10.25-21.09.47:793][  0]LogWindows:    2. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.10.25-21.09.47:793][  0]LogWindows:    3. 'NVIDIA GeForce GTX 1060' (P:0 D:0)
+[2019.10.25-21.09.47:793][  0]LogWindows: DebugString: FoundDriverCount:4 
+[2019.10.25-21.09.47:793][  0]LogD3D11RHI:     Adapter Name: NVIDIA GeForce GTX 1060
+[2019.10.25-21.09.47:793][  0]LogD3D11RHI:   Driver Version: 399.07 (internal:24.21.13.9907, unified:399.07)
+[2019.10.25-21.09.47:793][  0]LogD3D11RHI:      Driver Date: 8-21-2018
+[2019.10.25-21.09.47:793][  0]LogRHI: Texture pool is 4236 MB (70% of 6052 MB)
+[2019.10.25-21.09.47:830][  0]LogD3D11RHI: Async texture creation enabled
+[2019.10.25-21.09.47:848][  0]LogD3D11RHI: GPU Timing Frequency: 1000.000000 (Debug: 2 2)
+[2019.10.25-21.09.48:285][  0]LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.25-21.09.48:293][  0]LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.25-21.09.48:300][  0]LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.25-21.09.48:307][  0]LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.25-21.09.48:315][  0]LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.25-21.09.48:322][  0]LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.25-21.09.48:330][  0]LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.25-21.09.48:337][  0]LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.25-21.09.48:340][  0]LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.25-21.09.48:373][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.25-21.09.48:373][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.25-21.09.48:373][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.25-21.09.48:373][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.25-21.09.48:373][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.25-21.09.48:373][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.25-21.09.48:373][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.25-21.09.48:373][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.25-21.09.48:373][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.25-21.09.48:373][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.25-21.09.48:373][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.25-21.09.48:373][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.25-21.09.48:373][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.25-21.09.48:373][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.25-21.09.48:373][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.25-21.09.48:373][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.25-21.09.48:373][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.25-21.09.48:373][  0]LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.25-21.09.48:374][  0]LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.25-21.09.48:389][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.25-21.09.48:389][  0]LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.25-21.09.48:402][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.25-21.09.48:402][  0]LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.25-21.09.48:409][  0]LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.25-21.09.48:415][  0]LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.25-21.09.48:422][  0]LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.25-21.09.48:430][  0]LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.25-21.09.48:452][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.25-21.09.48:453][  0]LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.25-21.09.48:453][  0]LogTargetPlatformManager: Display: Building Assets For Windows
+[2019.10.25-21.09.48:460][  0]LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.25-21.09.48:496][  0]LogShaderCompilers: Guid format shader working directory is -9 characters bigger than the processId version (C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Intermediate/Shaders/WorkingDirectory/20488/).
+[2019.10.25-21.09.48:496][  0]LogShaderCompilers: Cleaned the shader compiler working directory 'C:/Users/draco/AppData/Local/Temp/UnrealShaderWorkingDir/3E36709949AC0E44666586B032DE0538/'.
+[2019.10.25-21.09.48:497][  0]LogXGEController: Cannot use XGE Controller as Incredibuild is not installed on this machine.
+[2019.10.25-21.09.48:497][  0]LogShaderCompilers: Cannot use XGE Shader Compiler as Incredibuild is not installed on this machine.
+[2019.10.25-21.09.48:497][  0]LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.25-21.09.49:121][  0]LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.25-21.09.49:167][  0]LogDerivedDataCache: Loaded boot cache 0.05s 73MB C:/Users/draco/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.25-21.09.49:167][  0]LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/draco/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.10.25-21.09.49:167][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  Pak pak cache file C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/DerivedDataCache/DDC.ddp not found, will not use a pak cache.
+[2019.10.25-21.09.49:167][  0]LogDerivedDataCache: Unable to find inner node Pak for hierarchical cache Hierarchy.
+[2019.10.25-21.09.49:167][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  CompressedPak pak cache file C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.25-21.09.49:167][  0]LogDerivedDataCache: Unable to find inner node CompressedPak for hierarchical cache Hierarchy.
+[2019.10.25-21.09.49:178][  0]LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.25-21.09.49:178][  0]LogDerivedDataCache: FDerivedDataBackendGraph:  EnterprisePak pak cache file ../../../Enterprise/DerivedDataCache/Compressed.ddp not found, will not use a pak cache.
+[2019.10.25-21.09.49:178][  0]LogDerivedDataCache: Unable to find inner node EnterprisePak for hierarchical cache Hierarchy.
+[2019.10.25-21.09.49:179][  0]LogDerivedDataCache: Using Local data cache path C:/Users/draco/AppData/Local/UnrealEngine/Common/DerivedDataCache: Writable
+[2019.10.25-21.09.49:179][  0]LogDerivedDataCache: Shared data cache path not found in *engine.ini, will not use an Shared cache.
+[2019.10.25-21.09.49:179][  0]LogDerivedDataCache: Unable to find inner node Shared for hierarchical cache Hierarchy.
+[2019.10.25-21.09.49:202][  0]LogMaterial: Verifying Global Shaders for PCD3D_SM5
+[2019.10.25-21.09.49:204][  0]LogSlate: Using FreeType 2.6.0
+[2019.10.25-21.09.49:205][  0]LogSlate: SlateFontServices - WITH_FREETYPE: 1, WITH_HARFBUZZ: 1
+[2019.10.25-21.09.49:254][  0]LogAssetRegistry: FAssetRegistry took 0.0022 seconds to start up
+[2019.10.25-21.09.49:510][  0]LogInit: Selected Device Profile: [Windows]
+[2019.10.25-21.09.49:649][  0]LogMeshReduction: Using QuadricMeshReduction for automatic static mesh reduction
+[2019.10.25-21.09.49:649][  0]LogMeshReduction: Using SimplygonMeshReduction for automatic skeletal mesh reduction
+[2019.10.25-21.09.49:649][  0]LogMeshReduction: Using ProxyLODMeshReduction for automatic mesh merging
+[2019.10.25-21.09.49:649][  0]LogMeshReduction: No distributed automatic mesh merging module available
+[2019.10.25-21.09.49:649][  0]LogMeshMerging: No distributed automatic mesh merging module available
+[2019.10.25-21.09.49:657][  0]LogNetVersion: EscapeTheRoom 1.0.0, NetCL: 8386587, EngineNetVer: 11, GameNetVer: 0 (Checksum: 3718097552)
+[2019.10.25-21.09.50:083][  0]LogPackageLocalizationCache: Processed 12 localized package path(s) for 1 prioritized culture(s) in 0.062486 seconds
+[2019.10.25-21.09.50:092][  0]LogUObjectArray: 43444 objects as part of root set at end of initial load.
+[2019.10.25-21.09.50:092][  0]LogUObjectAllocator: 7548648 out of 0 bytes used by permanent object pool.
+[2019.10.25-21.09.50:092][  0]LogUObjectArray: CloseDisregardForGC: 0/0 objects in disregard for GC pool
+[2019.10.25-21.09.50:901][  0]LogTcpMessaging: Initializing TcpMessaging bridge
+[2019.10.25-21.09.50:904][  0]LogUdpMessaging: Initializing bridge on interface 0.0.0.0:0 to multicast group 230.0.0.1:6666.
+[2019.10.25-21.09.50:957][  0]SourceControl: Source control is disabled
+[2019.10.25-21.09.50:957][  0]SourceControl: Source control is disabled
+[2019.10.25-21.09.50:959][  0]SourceControl: Source control is disabled
+[2019.10.25-21.09.50:959][  0]SourceControl: Source control is disabled
+[2019.10.25-21.09.51:046][  0]LogAndroidPermission: UAndroidPermissionCallbackProxy::GetInstance
+[2019.10.25-21.09.51:225][  0]LogOcInput: OculusInput pre-init called
+[2019.10.25-21.09.51:231][  0]LogWindows: Failed to load 'OVRPlugin.dll' (GetLastError=126)
+[2019.10.25-21.09.51:231][  0]LogWindows: File 'OVRPlugin.dll' does not exist
+[2019.10.25-21.09.51:307][  0]LogEngine: Initializing Engine...
+[2019.10.25-21.09.51:307][  0]LogHMD: Failed to initialize OpenVR with code 110
+[2019.10.25-21.09.51:308][  0]LogStats: UGameplayTagsManager::InitializeManager -  0.000 s
+[2019.10.25-21.09.51:564][  0]LogInit: Initializing FReadOnlyCVARCache
+[2019.10.25-21.09.51:574][  0]LogAIModule: Creating AISystem for world Untitled
+[2019.10.25-21.09.51:664][  0]LogInit: XAudio2 using 'Speakers (Realtek High Definition Audio)' : 2 channels at 48 kHz using 32 bits per sample (channel mask 0x3)
+[2019.10.25-21.09.51:827][  0]LogInit: FAudioDevice initialized.
+[2019.10.25-21.09.51:827][  0]LogNetVersion: Set ProjectVersion to 1.0.0.0. Version Checksum will be recalculated on next use.
+[2019.10.25-21.09.51:880][  0]LogDerivedDataCache: Saved boot cache 0.05s 73MB C:/Users/draco/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc.
+[2019.10.25-21.09.51:890][  0]LogInit: Texture streaming: Enabled
+[2019.10.25-21.09.51:905][  0]LogEngineSessionManager: EngineSessionManager initialized
+[2019.10.25-21.09.51:967][  0]LogInit: Transaction tracking system initialized
+[2019.10.25-21.09.51:989][  0]BlueprintLog: New page: Editor Load
+[2019.10.25-21.09.52:048][  0]LocalizationService: Localization service is disabled
+[2019.10.25-21.09.52:277][  0]LogFileCache: Scanning file cache for directory 'C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Content/' took 0.00s
+[2019.10.25-21.09.52:277][  0]LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.25-21.09.52:277][  0]LogCook: Display: Mobile HDR setting 1
+[2019.10.25-21.09.52:440][  0]SourceControl: Source control is disabled
+[2019.10.25-21.09.52:441][  0]Cmd: MAP LOAD FILE="C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2019.10.25-21.09.52:441][  0]LightingResults: New page: Lighting Build
+[2019.10.25-21.09.52:443][  0]LogWorld: UWorld::CleanupWorld for Untitled, bSessionEnded=true, bCleanupResources=true
+[2019.10.25-21.09.52:444][  0]MapCheck: New page: Map Check
+[2019.10.25-21.09.52:444][  0]LightingResults: New page: Lighting Build
+[2019.10.25-21.09.52:473][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.18ms
+[2019.10.25-21.09.53:139][  0]LogAIModule: Creating AISystem for world FirstPersonExampleMap
+[2019.10.25-21.09.53:176][  0]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2019.10.25-21.09.53:208][  0]LogUObjectHash: Compacting FUObjectHashTables data took   2.79ms
+[2019.10.25-21.09.53:208][  0]Cmd: MAP CHECKDEP NOCLEARLOG
+[2019.10.25-21.09.53:208][  0]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.134ms to complete.
+[2019.10.25-21.09.53:208][  0]LogFileHelpers: Loading map 'FirstPersonExampleMap' took 0.768
+[2019.10.25-21.09.53:321][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-21.09.53:328][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-21.09.53:336][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-21.09.53:343][  0]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2019.10.25-21.09.53:347][  0]LogCollectionManager: Loaded 0 collections in 0.001440 seconds
+[2019.10.25-21.09.53:351][  0]LogFileCache: Scanning file cache for directory 'C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Saved/Collections/' took 0.00s
+[2019.10.25-21.09.53:352][  0]LogFileCache: Scanning file cache for directory 'C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Content/Developers/CarterShipes/Collections/' took 0.00s
+[2019.10.25-21.09.53:352][  0]LogFileCache: Scanning file cache for directory 'C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Content/Collections/' took 0.00s
+[2019.10.25-21.09.53:352][  0]LogCollectionManager: Rebuilt the GUID cache for 0 collections in 0.000001 seconds
+[2019.10.25-21.09.53:360][  0]LogContentBrowser: Native class hierarchy populated in 0.0085 seconds. Added 2863 classes and 680 folders.
+[2019.10.25-21.09.53:366][  0]LogContentBrowser: Native class hierarchy updated for 'WidgetCarousel' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.25-21.09.53:396][  0]LogContentBrowser: Native class hierarchy updated for 'AddContentDialog' in 0.0003 seconds. Added 0 classes and 0 folders.
+[2019.10.25-21.09.53:400][  0]LogContentBrowser: Native class hierarchy updated for 'SceneOutliner' in 0.0002 seconds. Added 1 classes and 2 folders.
+[2019.10.25-21.09.53:415][  0]LogSlate: Took 0.000220 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Regular.ttf' (155K)
+[2019.10.25-21.09.53:417][  0]LogSlate: Took 0.000185 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Bold.ttf' (160K)
+[2019.10.25-21.09.53:422][  0]LogSlate: Took 0.000188 seconds to synchronously load lazily loaded font '../../../Engine/Content/Editor/Slate/Fonts/FontAwesome.ttf' (139K)
+[2019.10.25-21.09.53:490][  0]LogRenderer: Reallocating scene render targets to support 1208x612 Format 10 NumSamples 1 (Frame:1).
+[2019.10.25-21.09.53:527][  0]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.25-21.09.53:612][  0]LogContentBrowser: Native class hierarchy updated for 'HierarchicalLODOutliner' in 0.0002 seconds. Added 0 classes and 0 folders.
+[2019.10.25-21.09.53:612][  0]LogLoad: (Engine Initialization) Total time: 7.15 seconds
+[2019.10.25-21.09.53:612][  0]LogLoad: (Engine Initialization) Total Blueprint compile time: 0.00 seconds
+[2019.10.25-21.09.53:682][  0]LogAssetRegistry: Asset discovery search completed in 4.4294 seconds
+[2019.10.25-21.09.53:687][  0]LogCollectionManager: Rebuilt the object cache for 0 collections in 0.000015 seconds (found 0 objects)
+[2019.10.25-21.09.53:687][  0]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000085 seconds (updated 0 objects)
+[2019.10.25-21.09.53:688][  0]LogContentStreaming: Texture pool size now 1000 MB
+[2019.10.25-21.09.55:356][ 98]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-21.10.05:541][690]LogEditorViewport: Clicking on Actor (LMB): SpotLight (HangingLight16)
+[2019.10.25-21.10.10:143][964]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-21.10.20:540][587]LogEditorViewport: Clicking on Actor (LMB): SpotLight (HangingLight6)
+[2019.10.25-21.10.22:035][675]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-21.10.27:102][978]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-21.10.35:979][506]MapCheck: New page: Map Check
+[2019.10.25-21.10.35:987][506]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.25-21.10.35:990][506]LightingResults: New page: Lighting Build - Oct 25, 2019, 1:10:35 PM
+[2019.10.25-21.10.36:135][506]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.25-21.10.36:284][506]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.25-21.10.36:296][506]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.25-21.10.36:806][506]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.25-21.10.36:806][506]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20488
+[2019.10.25-21.10.48:596][506]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.25-21.10.48:596][506]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.25-21.10.48:596][506]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.25-21.10.48:596][506]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.25-21.10.48:596][506]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.25-21.10.48:734][506]LogEditorBuildUtils: Build time 0:12
+[2019.10.25-21.10.48:792][507]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer shadowman, compiling. 
+[2019.10.25-21.10.48:808][507]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2019.10.25-21.10.48:808][507]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2019.10.25-21.10.48:808][507]LogMaterial: Display: Missing cached shader map for material FLightmassMaterialRenderer shadowman, compiling. 
+[2019.10.25-21.10.49:666][508]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2019.10.25-21.10.49:667][508]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2019.10.25-21.10.50:108][513]LogUObjectHash: Compacting FUObjectHashTables data took   0.72ms
+[2019.10.25-21.10.53:194][523]Job is a success!
+[2019.10.25-21.10.53:864][524]LogSlate: Took 0.000183 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2019.10.25-21.10.53:922][524]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.006s
+[2019.10.25-21.10.53:922][524]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.10.25-21.10.53:922][524]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2019.10.25-21.10.53:922][524]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.25-21.10.53:922][524]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2019.10.25-21.10.53:922][524]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2019.10.25-21.10.53:922][524]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2019.10.25-21.10.53:972][524]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2019.10.25-21.10.53:973][524]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2019.10.25-21.10.53:973][524]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2019.10.25-21.10.53:973][524]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2019.10.25-21.10.54:008][524]Lightmass on DESKTOP-BR5DGSH: 3.36 sec total, 137 ms importing, 24 ms setup, 1.02 sec photons, 2.13 sec processing, 0 ms extra exporting [2/2 mappings]. Threads: 14.9 sec total, 1.60 sec processing.
+[2019.10.25-21.10.54:014][524]LogStaticLightingSystem: FirstPersonExampleMap_BuiltData storing lightmap data for 2 meshes in 2 LightmapResourceClusters (1.0 Meshes per cluster).
+[2019.10.25-21.10.54:040][524]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2019.10.25-21.10.54:049][524]LogStaticLightingSystem: Illumination: 17.7 sec (22 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.10.25-21.10.54:049][524]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.10.25-21.10.54:049][524]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.10.25-21.10.54:605][524]DumpUnbuiltLightIteractions
+[2019.10.25-21.10.54:605][524]Lights with unbuilt interactions: 0
+[2019.10.25-21.10.54:605][524]
+[2019.10.25-21.10.54:605][524]Primitives with unbuilt interactions: 0
+[2019.10.25-21.10.54:670][525]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.25-21.10.54:670][525]MapCheck: New page: FirstPersonExampleMap - Oct 25, 2019, 1:10:54 PM
+[2019.10.25-21.10.54:671][525]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.905ms to complete.
+[2019.10.25-21.11.17:739][671]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.25-21.11.29:800][390]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-21.11.33:749][623]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-21.11.37:330][836]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-21.11.38:956][933]MapCheck: New page: Map Check
+[2019.10.25-21.11.38:966][933]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.25-21.11.38:970][933]LightingResults: New page: Lighting Build - Oct 25, 2019, 1:11:38 PM
+[2019.10.25-21.11.38:979][933]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.25-21.11.38:982][933]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.25-21.11.38:982][933]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.25-21.11.38:983][933]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.25-21.11.38:983][933]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20488
+[2019.10.25-21.11.43:818][933]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.25-21.11.43:818][933]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.25-21.11.43:818][933]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.25-21.11.43:818][933]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.25-21.11.43:818][933]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.25-21.11.43:880][933]LogEditorBuildUtils: Build time 0:04
+[2019.10.25-21.11.43:926][934]LogUObjectHash: Compacting FUObjectHashTables data took   1.65ms
+[2019.10.25-21.11.46:942][943]Job is a success!
+[2019.10.25-21.11.47:318][944]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.006s
+[2019.10.25-21.11.47:318][944]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.10.25-21.11.47:318][944]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2019.10.25-21.11.47:318][944]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.25-21.11.47:318][944]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2019.10.25-21.11.47:318][944]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2019.10.25-21.11.47:318][944]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2019.10.25-21.11.47:367][944]LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 512X512)
+[2019.10.25-21.11.47:367][944]LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 512X512)
+[2019.10.25-21.11.47:367][944]LogTexture: Display: Building textures: HQ_Lightmap0_2 (AutoDXT, 64X64)
+[2019.10.25-21.11.47:367][944]LogTexture: Display: Building textures: LQ_Lightmap_0_2 (DXT1, 64X64)
+[2019.10.25-21.11.47:393][944]LogStaticLightingSystem: FirstPersonExampleMap_BuiltData storing lightmap data for 2 meshes in 2 LightmapResourceClusters (1.0 Meshes per cluster).
+[2019.10.25-21.11.47:417][944]Lightmass on DESKTOP-BR5DGSH: 3.00 sec total, 140 ms importing, 25 ms setup, 1.03 sec photons, 1.77 sec processing, 0 ms extra exporting [2/2 mappings]. Threads: 12.4 sec total, 1.57 sec processing.
+[2019.10.25-21.11.47:419][944]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2019.10.25-21.11.47:427][944]LogStaticLightingSystem: Illumination: 8.12 sec (24 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.10.25-21.11.47:427][944]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.10.25-21.11.47:427][944]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.10.25-21.11.47:825][944]DumpUnbuiltLightIteractions
+[2019.10.25-21.11.47:825][944]Lights with unbuilt interactions: 0
+[2019.10.25-21.11.47:825][944]
+[2019.10.25-21.11.47:825][944]Primitives with unbuilt interactions: 0
+[2019.10.25-21.11.47:886][945]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.25-21.11.47:886][945]MapCheck: New page: FirstPersonExampleMap - Oct 25, 2019, 1:11:47 PM
+[2019.10.25-21.11.47:887][945]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.72ms to complete.
+[2019.10.25-21.12.14:712][157]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-21.12.17:332][314]Cmd: TRANSACTION UNDO
+[2019.10.25-21.12.17:332][314]LogEditorTransaction: Undo Edit Mobility
+[2019.10.25-21.12.20:129][481]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.25-21.12.21:576][568]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MergedWallsFull)
+[2019.10.25-21.12.22:471][618]LogEditorViewport: Clicking on Actor (LMB): SpotLight (HangingLight6)
+[2019.10.25-21.12.23:883][700]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-21.12.32:361][205]LogEditorViewport: Clicking on Actor (LMB): SpotLight (HangingLight16)
+[2019.10.25-21.12.32:963][239]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HangingLight15)
+[2019.10.25-21.12.34:327][317]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HangingLight15)
+[2019.10.25-21.12.34:831][346]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (HangingLight15)
+[2019.10.25-21.12.35:977][414]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-21.12.49:777][238]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-21.13.02:817][ 15]LogEditorViewport: Clicking on Actor (LMB): SpotLight (HangingLight11)
+[2019.10.25-21.13.04:430][110]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-21.13.07:242][278]LogSlate: Took 0.000216 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2019.10.25-21.13.11:272][519]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-21.13.32:025][761]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (MergedWallsFull)
+[2019.10.25-21.13.33:632][855]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-21.13.34:677][917]MapCheck: New page: Map Check
+[2019.10.25-21.13.34:694][917]LightingResults: New page: Lighting Build - Oct 25, 2019, 1:13:34 PM
+[2019.10.25-21.13.34:702][917]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2019.10.25-21.13.34:703][917]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2019.10.25-21.13.34:703][917]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2019.10.25-21.13.34:704][917]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2019.10.25-21.13.34:704][917]LogSwarmInterface: [TryOpenConnection] Local Process ID is 20488
+[2019.10.25-21.13.48:232][917]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2019.10.25-21.13.48:232][917]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2019.10.25-21.13.48:232][917]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2019.10.25-21.13.48:232][917]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2019.10.25-21.13.48:232][917]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2019.10.25-21.13.48:301][917]LogEditorBuildUtils: Build time 0:13
+[2019.10.25-21.13.48:335][918]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2019.10.25-21.13.51:780][100]Job is a success!
+[2019.10.25-21.13.51:823][102]LogSlate: FSceneViewport::OnFocusLost() reason 5
+[2019.10.25-21.13.51:851][102]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.006s
+[2019.10.25-21.13.51:851][102]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2019.10.25-21.13.51:851][102]LogVolumetricLightmapImport:      BrickData 5x5x5 = 0.0Mb
+[2019.10.25-21.13.51:851][102]LogVolumetricLightmapImport:      Bricks at Level
+[2019.10.25-21.13.51:851][102]LogVolumetricLightmapImport:          0: 100.0% covering 100.0% of volume
+[2019.10.25-21.13.51:851][102]LogVolumetricLightmapImport:          1: 0.0% covering 0.0% of volume
+[2019.10.25-21.13.51:851][102]LogVolumetricLightmapImport:          2: 0.0% covering 0.0% of volume
+[2019.10.25-21.13.51:894][102]LogTexture: Display: Building textures: HQ_Lightmap1_1 (AutoDXT, 512X512)
+[2019.10.25-21.13.51:894][102]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (DXT1, 512X512)
+[2019.10.25-21.13.51:894][102]LogTexture: Display: Building textures: HQ_Lightmap1_2 (AutoDXT, 64X64)
+[2019.10.25-21.13.51:894][102]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (DXT1, 64X64)
+[2019.10.25-21.13.51:909][102]LogStaticLightingSystem: FirstPersonExampleMap_BuiltData storing lightmap data for 2 meshes in 2 LightmapResourceClusters (1.0 Meshes per cluster).
+[2019.10.25-21.13.51:934][102]Lightmass on DESKTOP-BR5DGSH: 3.12 sec total, 128 ms importing, 23 ms setup, 991 ms photons, 1.94 sec processing, 0 ms extra exporting [2/2 mappings]. Threads: 13.5 sec total, 2.16 sec processing.
+[2019.10.25-21.13.51:936][102]LogUObjectHash: Compacting FUObjectHashTables data took   2.02ms
+[2019.10.25-21.13.51:946][102]LogStaticLightingSystem: Illumination: 17.2 sec (24 ms encoding lightmaps, 0 ms encoding shadowmaps)
+[2019.10.25-21.13.51:947][102]LogStaticLightingSystem: Lightmap texture memory:  0.5 MB (0.5 MB streaming, 0.0 MB non-streaming), 4 textures
+[2019.10.25-21.13.51:947][102]LogStaticLightingSystem: Shadowmap texture memory: 0.0 MB (0.0 MB streaming, 0.0 MB non-streaming), 0 textures
+[2019.10.25-21.13.52:234][102]DumpUnbuiltLightIteractions
+[2019.10.25-21.13.52:234][102]Lights with unbuilt interactions: 0
+[2019.10.25-21.13.52:234][102]
+[2019.10.25-21.13.52:234][102]Primitives with unbuilt interactions: 0
+[2019.10.25-21.13.52:304][103]Cmd: MAP CHECK NOTIFYRESULTS
+[2019.10.25-21.13.52:305][103]MapCheck: New page: FirstPersonExampleMap - Oct 25, 2019, 1:13:52 PM
+[2019.10.25-21.13.52:305][103]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.936ms to complete.
+[2019.10.25-21.14.04:206][815]LogSlate: FSceneViewport::OnFocusLost() reason 2
+[2019.10.25-21.14.09:028][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.10.25-21.14.09:071][ 95]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2019.10.25-21.14.09:574][ 95]LogSavePackage: Moving 'C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Saved/FirstPersonExampleMapBC2200E842AFE9A4EA7F7D8C21AD68CB.tmp' to 'C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2019.10.25-21.14.09:613][ 95]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.567
+[2019.10.25-21.14.09:642][ 95]LogSavePackage: Moving 'C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Saved/FirstPersonExampleMap_BuiltData60A6EA314D3BCF943EA2279E7679F3CD.tmp' to 'C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Content/FirstPersonBP/Maps/FirstPersonExampleMap_BuiltData.uasset'
+[2019.10.25-21.14.13:538][ 96]UATHelper: Packaging (HTML5): Running AutomationTool...
+[2019.10.25-21.14.13:654][103]UATHelper: Packaging (HTML5): Parsing command line: -ScriptsForProject="C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/EscapeTheRoom.uproject" BuildCookRun -nocompile -nocompileeditor -installed -nop4 -project="C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/EscapeTheRoom.uproject" -cook -stage -archive -archivedirectory="C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Pie Out/HTML5" -package -clientconfig=Development -ue4exe="D:\Epic Games\UE_4.23\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -prereqs -nodebuginfo -targetplatform=HTML5 -utf8output
+[2019.10.25-21.14.13:988][123]UATHelper: Packaging (HTML5): Setting up ProjectParams for C:\Users\draco\Documents\Unreal Projects\EscapeTheRoom\EscapeTheRoom.uproject
+[2019.10.25-21.14.14:307][142]UATHelper: Packaging (HTML5): ********** COOK COMMAND STARTED **********
+[2019.10.25-21.14.14:307][142]UATHelper: Packaging (HTML5): Running UE4Editor Cook for project C:\Users\draco\Documents\Unreal Projects\EscapeTheRoom\EscapeTheRoom.uproject
+[2019.10.25-21.14.14:308][142]UATHelper: Packaging (HTML5): Commandlet log file is D:\Epic Games\UE_4.23\Engine\Programs\AutomationTool\Saved\Cook-2019.10.25-17.14.14.txt
+[2019.10.25-21.14.14:308][142]UATHelper: Packaging (HTML5): Running: D:\Epic Games\UE_4.23\Engine\Binaries\Win64\UE4Editor-Cmd.exe "C:\Users\draco\Documents\Unreal Projects\EscapeTheRoom\EscapeTheRoom.uproject" -run=Cook  -TargetPlatform=HTML5 -fileopenlog -unversioned -abslog="D:\Epic Games\UE_4.23\Engine\Programs\AutomationTool\Saved\Cook-2019.10.25-17.14.14.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2019.10.25-21.14.14:441][150]UATHelper: Packaging (HTML5):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2019.10.25-21.14.14:441][150]UATHelper: Packaging (HTML5):   LogInit: Display: Running engine for game: EscapeTheRoom
+[2019.10.25-21.14.20:585][512]LogUObjectHash: Compacting FUObjectHashTables data took   2.14ms
+[2019.10.25-21.14.31:409][516]UATHelper: Packaging (HTML5): Running AutomationTool...
+[2019.10.25-21.14.31:490][519]UATHelper: Packaging (HTML5): Parsing command line: -ScriptsForProject="C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/EscapeTheRoom.uproject" BuildCookRun -nocompile -nocompileeditor -installed -nop4 -project="C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/EscapeTheRoom.uproject" -cook -stage -archive -archivedirectory="C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Pie Out 2" -package -clientconfig=Development -ue4exe="D:\Epic Games\UE_4.23\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -prereqs -nodebuginfo -targetplatform=HTML5 -utf8output
+[2019.10.25-21.14.31:798][536]UATHelper: Packaging (HTML5): Setting up ProjectParams for C:\Users\draco\Documents\Unreal Projects\EscapeTheRoom\EscapeTheRoom.uproject
+[2019.10.25-21.14.32:150][557]UATHelper: Packaging (HTML5): ********** COOK COMMAND STARTED **********
+[2019.10.25-21.14.32:150][557]UATHelper: Packaging (HTML5): Running UE4Editor Cook for project C:\Users\draco\Documents\Unreal Projects\EscapeTheRoom\EscapeTheRoom.uproject
+[2019.10.25-21.14.32:150][557]UATHelper: Packaging (HTML5): Commandlet log file is D:\Epic Games\UE_4.23\Engine\Programs\AutomationTool\Saved\Cook-2019.10.25-17.14.32.txt
+[2019.10.25-21.14.32:150][557]UATHelper: Packaging (HTML5): Running: D:\Epic Games\UE_4.23\Engine\Binaries\Win64\UE4Editor-Cmd.exe "C:\Users\draco\Documents\Unreal Projects\EscapeTheRoom\EscapeTheRoom.uproject" -run=Cook  -TargetPlatform=HTML5 -fileopenlog -unversioned -abslog="D:\Epic Games\UE_4.23\Engine\Programs\AutomationTool\Saved\Cook-2019.10.25-17.14.32.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2019.10.25-21.14.32:281][565]UATHelper: Packaging (HTML5):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2019.10.25-21.14.32:281][565]UATHelper: Packaging (HTML5):   LogInit: Display: Running engine for game: EscapeTheRoom
+[2019.10.25-21.14.33:115][615]UATHelper: Packaging (HTML5):   LogHAL: Display: Platform has ~ 32 GB [34275274752 / 34359738368 / 32], which maps to Largest [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2019.10.25-21.14.33:831][658]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'AllDesktopTargetPlatform' loaded TargetPlatform 'AllDesktop'
+[2019.10.25-21.14.33:831][658]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'MacClientTargetPlatform' loaded TargetPlatform 'MacClient'
+[2019.10.25-21.14.33:851][659]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'MacNoEditorTargetPlatform' loaded TargetPlatform 'MacNoEditor'
+[2019.10.25-21.14.33:851][659]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'MacServerTargetPlatform' loaded TargetPlatform 'MacServer'
+[2019.10.25-21.14.33:867][660]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'MacTargetPlatform' loaded TargetPlatform 'Mac'
+[2019.10.25-21.14.33:868][660]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'WindowsClientTargetPlatform' loaded TargetPlatform 'WindowsClient'
+[2019.10.25-21.14.33:882][661]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'WindowsNoEditorTargetPlatform' loaded TargetPlatform 'WindowsNoEditor'
+[2019.10.25-21.14.33:882][661]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'WindowsServerTargetPlatform' loaded TargetPlatform 'WindowsServer'
+[2019.10.25-21.14.33:899][662]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'WindowsTargetPlatform' loaded TargetPlatform 'Windows'
+[2019.10.25-21.14.33:932][664]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android'
+[2019.10.25-21.14.33:932][664]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTC'
+[2019.10.25-21.14.33:932][664]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATC'
+[2019.10.25-21.14.33:932][664]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXT'
+[2019.10.25-21.14.33:932][664]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1'
+[2019.10.25-21.14.33:932][664]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1a'
+[2019.10.25-21.14.33:932][664]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2'
+[2019.10.25-21.14.33:932][664]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTC'
+[2019.10.25-21.14.33:932][664]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'AndroidClient'
+[2019.10.25-21.14.33:932][664]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ASTCClient'
+[2019.10.25-21.14.33:932][664]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ATCClient'
+[2019.10.25-21.14.33:932][664]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_DXTClient'
+[2019.10.25-21.14.33:932][664]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1Client'
+[2019.10.25-21.14.33:932][664]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC1aClient'
+[2019.10.25-21.14.33:932][664]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_ETC2Client'
+[2019.10.25-21.14.33:932][664]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_PVRTCClient'
+[2019.10.25-21.14.33:932][664]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_Multi'
+[2019.10.25-21.14.33:932][664]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'AndroidTargetPlatform' loaded TargetPlatform 'Android_MultiClient'
+[2019.10.25-21.14.33:932][664]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'HTML5TargetPlatform' loaded TargetPlatform 'HTML5'
+[2019.10.25-21.14.33:948][665]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOSClient'
+[2019.10.25-21.14.33:949][665]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'IOSTargetPlatform' loaded TargetPlatform 'IOS'
+[2019.10.25-21.14.33:966][666]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOSClient'
+[2019.10.25-21.14.33:966][666]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'TVOSTargetPlatform' loaded TargetPlatform 'TVOS'
+[2019.10.25-21.14.33:982][667]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'LinuxClientTargetPlatform' loaded TargetPlatform 'LinuxClient'
+[2019.10.25-21.14.33:982][667]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'LinuxNoEditorTargetPlatform' loaded TargetPlatform 'LinuxNoEditor'
+[2019.10.25-21.14.34:000][668]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'LinuxServerTargetPlatform' loaded TargetPlatform 'LinuxServer'
+[2019.10.25-21.14.34:000][668]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'LinuxTargetPlatform' loaded TargetPlatform 'Linux'
+[2019.10.25-21.14.34:032][670]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'Lumin'
+[2019.10.25-21.14.34:032][670]UATHelper: Packaging (HTML5):   LogTemp: Display: Module 'LuminTargetPlatform' loaded TargetPlatform 'LuminClient'
+[2019.10.25-21.14.34:032][670]UATHelper: Packaging (HTML5):   LogTargetPlatformManager: Display: Building Assets For HTML5
+[2019.10.25-21.14.34:032][670]UATHelper: Packaging (HTML5):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2019.10.25-21.14.34:082][673]UATHelper: Packaging (HTML5):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2019.10.25-21.14.34:598][704]UATHelper: Packaging (HTML5):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2019.10.25-21.14.34:648][707]UATHelper: Packaging (HTML5):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/draco/AppData/Local/UnrealEngine/4.23/DerivedDataCache/Boot.ddc
+[2019.10.25-21.14.34:665][708]UATHelper: Packaging (HTML5):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2019.10.25-21.14.36:200][800]UATHelper: Packaging (HTML5):   LogCook: Display: Max memory allowance for cook 16384mb min free memory 0mb
+[2019.10.25-21.14.36:200][800]UATHelper: Packaging (HTML5):   LogCook: Display: Mobile HDR setting 1
+[2019.10.25-21.14.36:200][800]UATHelper: Packaging (HTML5):   LogCook: Display: Creating asset registry
+[2019.10.25-21.14.36:367][810]UATHelper: Packaging (HTML5):   LogCook: Display: Discovering localized assets
+[2019.10.25-21.14.36:367][810]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked content cleared for platform HTML5
+[2019.10.25-21.14.36:516][819]UATHelper: Packaging (HTML5):   LogCook: Display: Unable to read previous cook inisettings for platform HTML5 invalidating cook
+[2019.10.25-21.14.36:566][822]UATHelper: Packaging (HTML5):   LogCook: Display: Sandbox cleanup took 0.196 seconds for platforms HTML5  iterative false
+[2019.10.25-21.14.37:467][876]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 0 Packages Remain 324 Total 324
+[2019.10.25-21.14.37:810][896]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 50 Packages Remain 323 Total 373
+[2019.10.25-21.14.38:238][921]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 100 Packages Remain 322 Total 422
+[2019.10.25-21.14.38:528][938]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 150 Packages Remain 321 Total 471
+[2019.10.25-21.14.38:631][943]UATHelper: Packaging (HTML5):   LogCook: Display: Excluding /OculusVR/Materials/OculusMR_WhiteMaterial -> C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Saved/Cooked/HTML5/Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_WhiteMaterial.uasset
+[2019.10.25-21.14.38:632][943]UATHelper: Packaging (HTML5):   LogCook: Display: Excluding /OculusVR/Materials/OculusMR_ChromaKey -> C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Saved/Cooked/HTML5/Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey.uasset
+[2019.10.25-21.14.38:684][946]UATHelper: Packaging (HTML5):   LogCook: Display: Excluding /OculusVR/Materials/OculusMR_ChromaKey_Lit -> C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Saved/Cooked/HTML5/Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_ChromaKey_Lit.uasset
+[2019.10.25-21.14.38:684][946]UATHelper: Packaging (HTML5):   LogCook: Display: Excluding /OculusVR/Materials/OculusMR_OpaqueColoredMaterial -> C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Saved/Cooked/HTML5/Engine/Plugins/Runtime/Oculus/OculusVR/Content/Materials/OculusMR_OpaqueColoredMaterial.uasset
+[2019.10.25-21.14.38:684][946]UATHelper: Packaging (HTML5):   LogCook: Display: Excluding /OculusVR/OculusMR_RenderTarget -> C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Saved/Cooked/HTML5/Engine/Plugins/Runtime/Oculus/OculusVR/Content/OculusMR_RenderTarget.uasset
+[2019.10.25-21.14.38:833][955]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 186 Packages Remain 320 Total 506
+[2019.10.25-21.14.38:849][956]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 188 Packages Remain 319 Total 507
+[2019.10.25-21.14.38:864][957]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 189 Packages Remain 318 Total 507
+[2019.10.25-21.14.38:882][958]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 190 Packages Remain 317 Total 507
+[2019.10.25-21.14.38:916][960]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 191 Packages Remain 316 Total 507
+[2019.10.25-21.14.38:949][962]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 193 Packages Remain 315 Total 508
+[2019.10.25-21.14.38:969][963]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 194 Packages Remain 314 Total 508
+[2019.10.25-21.14.38:969][963]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 194 Packages Remain 167 Total 361
+[2019.10.25-21.14.38:969][963]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 197 Packages Remain 166 Total 363
+[2019.10.25-21.14.38:992][964]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 208 Packages Remain 165 Total 373
+[2019.10.25-21.14.39:025][966]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 213 Packages Remain 164 Total 377
+[2019.10.25-21.14.39:568][998]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 235 Packages Remain 175 Total 410
+[2019.10.25-21.14.40:095][ 29]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 285 Packages Remain 174 Total 459
+[2019.10.25-21.14.40:386][ 46]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 308 Packages Remain 172 Total 480
+[2019.10.25-21.14.40:386][ 46]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 309 Packages Remain 170 Total 479
+[2019.10.25-21.14.40:386][ 46]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 310 Packages Remain 168 Total 478
+[2019.10.25-21.14.40:386][ 46]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 311 Packages Remain 166 Total 477
+[2019.10.25-21.14.40:386][ 46]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 312 Packages Remain 164 Total 476
+[2019.10.25-21.14.40:386][ 46]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 313 Packages Remain 162 Total 475
+[2019.10.25-21.14.40:386][ 46]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 314 Packages Remain 142 Total 456
+[2019.10.25-21.14.40:396][ 47]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 315 Packages Remain 141 Total 456
+[2019.10.25-21.14.40:396][ 47]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 316 Packages Remain 140 Total 456
+[2019.10.25-21.14.40:396][ 47]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 317 Packages Remain 135 Total 452
+[2019.10.25-21.14.40:413][ 48]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 318 Packages Remain 134 Total 452
+[2019.10.25-21.14.40:413][ 48]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 319 Packages Remain 133 Total 452
+[2019.10.25-21.14.40:413][ 48]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 320 Packages Remain 119 Total 439
+[2019.10.25-21.14.40:413][ 48]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 321 Packages Remain 99 Total 420
+[2019.10.25-21.14.40:435][ 49]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 322 Packages Remain 93 Total 415
+[2019.10.25-21.14.40:435][ 49]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 323 Packages Remain 92 Total 415
+[2019.10.25-21.14.40:435][ 49]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 324 Packages Remain 88 Total 412
+[2019.10.25-21.14.40:435][ 49]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 324 Packages Remain 87 Total 411
+[2019.10.25-21.14.40:461][ 51]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 327 Packages Remain 86 Total 413
+[2019.10.25-21.14.40:461][ 51]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 328 Packages Remain 85 Total 413
+[2019.10.25-21.14.40:517][ 54]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 333 Packages Remain 84 Total 417
+[2019.10.25-21.14.40:596][ 59]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 338 Packages Remain 83 Total 421
+[2019.10.25-21.14.40:596][ 59]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 338 Packages Remain 82 Total 420
+[2019.10.25-21.14.40:613][ 60]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 340 Packages Remain 77 Total 417
+[2019.10.25-21.14.40:614][ 60]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 341 Packages Remain 67 Total 408
+[2019.10.25-21.14.40:614][ 60]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 342 Packages Remain 56 Total 398
+[2019.10.25-21.14.40:614][ 60]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 343 Packages Remain 47 Total 390
+[2019.10.25-21.14.40:629][ 61]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 344 Packages Remain 43 Total 387
+[2019.10.25-21.14.40:629][ 61]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 345 Packages Remain 32 Total 377
+[2019.10.25-21.14.40:629][ 61]UATHelper: Packaging (HTML5):   LogCook: Display: Cooked packages 345 Packages Remain 0 Total 345
+[2019.10.25-21.14.40:629][ 61]UATHelper: Packaging (HTML5):   LogCook: Display: Finishing up...
+[2019.10.25-21.14.40:644][ 62]UATHelper: Packaging (HTML5):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2019.10.25-21.14.40:644][ 62]UATHelper: Packaging (HTML5):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2019.10.25-21.14.40:644][ 62]UATHelper: Packaging (HTML5):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2019.10.25-21.14.40:712][ 66]UATHelper: Packaging (HTML5):   LogAssetRegistryGenerator: Display: Saving asset registry.
+[2019.10.25-21.14.40:728][ 67]UATHelper: Packaging (HTML5):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 331, size is 503.75kb
+[2019.10.25-21.14.40:729][ 67]UATHelper: Packaging (HTML5):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2019.10.25-21.14.40:745][ 68]UATHelper: Packaging (HTML5):   LogCook: Display: Cook by the book total time in tick 3.165768s total time 4.544018
+[2019.10.25-21.14.40:746][ 68]UATHelper: Packaging (HTML5):   LogCook: Display: Peak Used virtual 563MB Peak Used physical 542MB
+[2019.10.25-21.14.40:746][ 68]UATHelper: Packaging (HTML5):   LogCook: Display: Hierarchy Timer Information:
+[2019.10.25-21.14.40:746][ 68]UATHelper: Packaging (HTML5):   LogCook: Display:   Root: 0.000s (0)
+[2019.10.25-21.14.40:746][ 68]UATHelper: Packaging (HTML5):   LogCook: Display:     StartCookByTheBookTime: 1.261s (1)
+[2019.10.25-21.14.40:746][ 68]UATHelper: Packaging (HTML5):   LogCook: Display:       GenerateAssetRegistryTime: 0.141s (1)
+[2019.10.25-21.14.40:746][ 68]UATHelper: Packaging (HTML5):   LogCook: Display:       CleanSandboxTime: 0.196s (1)
+[2019.10.25-21.14.40:746][ 68]UATHelper: Packaging (HTML5):   LogCook: Display:         ProcessingAccessedStrings: 0.007s (1)
+[2019.10.25-21.14.40:746][ 68]UATHelper: Packaging (HTML5):   LogCook: Display:       CollectFilesToCook: 0.260s (1)
+[2019.10.25-21.14.40:746][ 68]UATHelper: Packaging (HTML5):   LogCook: Display:         CookModificationDelegate: 0.000s (1)
+[2019.10.25-21.14.40:746][ 68]UATHelper: Packaging (HTML5):   LogCook: Display:         GeneratePackageNames: 0.000s (1)
+[2019.10.25-21.14.40:746][ 68]UATHelper: Packaging (HTML5):   LogCook: Display:       GenerateLongPackageName: 0.001s (1)
+[2019.10.25-21.14.40:746][ 68]UATHelper: Packaging (HTML5):   LogCook: Display:     TickCookOnTheSide: 3.155s (60)
+[2019.10.25-21.14.40:746][ 68]UATHelper: Packaging (HTML5):   LogCook: Display:       LoadPackage: 0.604s (59)
+[2019.10.25-21.14.40:746][ 68]UATHelper: Packaging (HTML5):   LogCook: Display:       CallBeginCacheForCookedPlatformData: 0.115s (60)
+[2019.10.25-21.14.40:746][ 68]UATHelper: Packaging (HTML5):   LogCook: Display:       PostLoadPackageFixup: 0.000s (60)
+[2019.10.25-21.14.40:746][ 68]UATHelper: Packaging (HTML5):   LogCook: Display:       SavingPackages: 2.433s (42)
+[2019.10.25-21.14.40:746][ 68]UATHelper: Packaging (HTML5):   LogCook: Display:         PrecachePlatformDataForNextPackage: 0.001s (321)
+[2019.10.25-21.14.40:746][ 68]UATHelper: Packaging (HTML5):   LogCook: Display:         PrecachePlatformDataForNextNextPackage: 1.091s (311)
+[2019.10.25-21.14.40:746][ 68]UATHelper: Packaging (HTML5):   LogCook: Display:         SaveCookedPackage: 1.320s (345)
+[2019.10.25-21.14.40:746][ 68]UATHelper: Packaging (HTML5):   LogCook: Display:           LoadPackage: 0.001s (340)
+[2019.10.25-21.14.40:746][ 68]UATHelper: Packaging (HTML5):   LogCook: Display:           GEditorSavePackage: 1.298s (340)
+[2019.10.25-21.14.40:746][ 68]UATHelper: Packaging (HTML5):   LogCook: Display:             ConvertingBlueprints: 0.005s (340)
+[2019.10.25-21.14.40:746][ 68]UATHelper: Packaging (HTML5):   LogCook: Display:             VerifyCanCookPackage: 0.002s (331)
+[2019.10.25-21.14.40:746][ 68]UATHelper: Packaging (HTML5):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.009s (345)
+[2019.10.25-21.14.40:746][ 68]UATHelper: Packaging (HTML5):   LogCook: Display:         EnqueueUnsavedPackages: 0.000s (7)
+[2019.10.25-21.14.40:746][ 68]UATHelper: Packaging (HTML5):   LogCook: Display:     GeneratingBlueprintAssets: 0.002s (1)
+[2019.10.25-21.14.40:746][ 68]UATHelper: Packaging (HTML5):   LogCook: Display:     SavingCurrentIniSettings: 0.044s (1)
+[2019.10.25-21.14.40:746][ 68]UATHelper: Packaging (HTML5):   LogCook: Display:       ProcessingAccessedStrings: 0.007s (1)
+[2019.10.25-21.14.40:746][ 68]UATHelper: Packaging (HTML5):   LogCook: Display:     SavingAssetRegistry: 0.050s (1)
+[2019.10.25-21.14.40:746][ 68]UATHelper: Packaging (HTML5):   LogCook: Display:       BuildChunkManifest: 0.009s (1)
+[2019.10.25-21.14.40:746][ 68]UATHelper: Packaging (HTML5):   LogCook: Display:       SaveManifests: 0.005s (1)
+[2019.10.25-21.14.40:746][ 68]UATHelper: Packaging (HTML5):   LogCook: Display:       SaveRealAssetRegistry: 0.027s (1)
+[2019.10.25-21.14.40:746][ 68]UATHelper: Packaging (HTML5):   LogCook: Display:       WriteCookerOpenOrder: 0.009s (1)
+[2019.10.25-21.14.40:746][ 68]UATHelper: Packaging (HTML5):   LogCook: Display: Done!
+[2019.10.25-21.14.40:762][ 69]UATHelper: Packaging (HTML5):   LogSavePackage: Display: Took 0.004099s to verify the EDL loading graph.
+[2019.10.25-21.14.40:762][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: Misc Cook Stats
+[2019.10.25-21.14.40:762][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: ===============
+[2019.10.25-21.14.40:762][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: ShaderCompiler
+[2019.10.25-21.14.40:762][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:     BlockingTimeSec=0.000001
+[2019.10.25-21.14.40:762][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:     AsyncCompileTimeSec=0.000000
+[2019.10.25-21.14.40:762][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.000000
+[2019.10.25-21.14.40:762][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=0
+[2019.10.25-21.14.40:762][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.000086
+[2019.10.25-21.14.40:762][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: GlobalShader.Misc
+[2019.10.25-21.14.40:762][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: MaterialShader.Misc
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: Package.Load
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:     NumPackagesLoaded=188
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:     LoadPackageTimeSec=1.055263
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: Package.Save
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:     NumPackagesSaved=340
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:     SavePackageTimeSec=1.272606
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.178807
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.084356
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:     ResetLoadersForSaveTimeSec=0.001257
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.002368
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000334
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.132928
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.140232
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.000000
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.373286
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:     MBWritten=142.881183
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: Package.DiffTotal
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: Cook Profile
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: ============
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:  0.CookWallTimeSec=8.542015
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=3.984071
+[2019.10.25-21.14.40:763][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=4.557922
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=1.261147
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000020
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=3.281858
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=0.605130
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=1.320326
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=1.205848
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.007983
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=0.000537
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.000013
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.000019
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.000003
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: DDC Summary Stats
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: =================
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: TotalGetHits  =       597
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: TotalGets     =       597
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: TotalGetHitPct=  1.000000
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: LocalGetHitPct=  0.656616
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: SharedGetHitPct=  0.000000
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: OtherGetHitPct=  0.343384
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: GetMissPct    =  0.000000
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: TotalPutHits  =         0
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: TotalPuts     =         0
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: TotalPutHitPct= -nan(ind)
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: PutMissPct    = -nan(ind)
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display:
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: DDC Resource Stats
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: =======================================================================================================
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: Texture (Streaming)                             0.23                   0.00             0         66.24
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: MaterialShader                                  0.22                   0.22             0         11.15
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: Texture (Inline)                                0.04                   0.04             0         51.84
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: StaticMesh                                      0.03                   0.03             0          2.71
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: PhysX (BodySetup)                               0.03                   0.03             0          3.15
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: SkeletalMesh                                    0.02                   0.02             0          2.51
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: NavCollision                                    0.00                   0.00             0          0.16
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: GlobalShader                                    0.00                   0.00             0          0.44
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogCookCommandlet: Display: SoundWave                                       0.00                   0.00             0          1.14
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogInit: Display:
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogInit: Display: Success - 0 error(s), 0 warning(s)
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   LogInit: Display:
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   
+[2019.10.25-21.14.40:764][ 69]UATHelper: Packaging (HTML5):   Execution of commandlet took:  4.57 seconds
+[2019.10.25-21.14.41:411][108]UATHelper: Packaging (HTML5):   FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.25-21.14.41:412][108]UATHelper: Packaging (HTML5):   FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.25-21.14.41:412][108]UATHelper: Packaging (HTML5):   FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.25-21.14.41:463][111]UATHelper: Packaging (HTML5): Took 9.2987249s to run UE4Editor-Cmd.exe, ExitCode=0
+[2019.10.25-21.14.41:463][111]UATHelper: Packaging (HTML5): ********** COOK COMMAND COMPLETED **********
+[2019.10.25-21.14.41:463][111]UATHelper: Packaging (HTML5): ********** STAGE COMMAND STARTED **********
+[2019.10.25-21.14.41:529][115]UATHelper: Packaging (HTML5): Creating UE4CommandLine.txt
+[2019.10.25-21.14.41:545][116]UATHelper: Packaging (HTML5): Creating Staging Manifest...
+[2019.10.25-21.14.41:561][117]UATHelper: Packaging (HTML5): Excluding config file D:\Epic Games\UE_4.23\Engine\Config\BaseEditor.ini
+[2019.10.25-21.14.41:561][117]UATHelper: Packaging (HTML5): Excluding config file D:\Epic Games\UE_4.23\Engine\Config\BaseEditorKeyBindings.ini
+[2019.10.25-21.14.41:561][117]UATHelper: Packaging (HTML5): Excluding config file D:\Epic Games\UE_4.23\Engine\Config\BaseEditorLayout.ini
+[2019.10.25-21.14.41:561][117]UATHelper: Packaging (HTML5): Excluding config file D:\Epic Games\UE_4.23\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2019.10.25-21.14.41:561][117]UATHelper: Packaging (HTML5): Excluding config file D:\Epic Games\UE_4.23\Engine\Config\BaseEditorSettings.ini
+[2019.10.25-21.14.41:561][117]UATHelper: Packaging (HTML5): Excluding config file D:\Epic Games\UE_4.23\Engine\Config\BaseLightmass.ini
+[2019.10.25-21.14.41:561][117]UATHelper: Packaging (HTML5): Excluding config file D:\Epic Games\UE_4.23\Engine\Config\BasePakFileRules.ini
+[2019.10.25-21.14.41:561][117]UATHelper: Packaging (HTML5): Excluding config file D:\Epic Games\UE_4.23\Engine\Config\Localization\Category.ini
+[2019.10.25-21.14.41:561][117]UATHelper: Packaging (HTML5): Excluding config file D:\Epic Games\UE_4.23\Engine\Config\Localization\Editor.ini
+[2019.10.25-21.14.41:561][117]UATHelper: Packaging (HTML5): Excluding config file D:\Epic Games\UE_4.23\Engine\Config\Localization\EditorTutorials.ini
+[2019.10.25-21.14.41:562][117]UATHelper: Packaging (HTML5): Excluding config file D:\Epic Games\UE_4.23\Engine\Config\Localization\Engine.ini
+[2019.10.25-21.14.41:562][117]UATHelper: Packaging (HTML5): Excluding config file D:\Epic Games\UE_4.23\Engine\Config\Localization\Keywords.ini
+[2019.10.25-21.14.41:562][117]UATHelper: Packaging (HTML5): Excluding config file D:\Epic Games\UE_4.23\Engine\Config\Localization\PortableObjectExport.ini
+[2019.10.25-21.14.41:562][117]UATHelper: Packaging (HTML5): Excluding config file D:\Epic Games\UE_4.23\Engine\Config\Localization\PortableObjectImport.ini
+[2019.10.25-21.14.41:562][117]UATHelper: Packaging (HTML5): Excluding config file D:\Epic Games\UE_4.23\Engine\Config\Localization\PropertyNames.ini
+[2019.10.25-21.14.41:562][117]UATHelper: Packaging (HTML5): Excluding config file D:\Epic Games\UE_4.23\Engine\Config\Localization\RepairData.ini
+[2019.10.25-21.14.41:562][117]UATHelper: Packaging (HTML5): Excluding config file D:\Epic Games\UE_4.23\Engine\Config\Localization\ToolTips.ini
+[2019.10.25-21.14.41:562][117]UATHelper: Packaging (HTML5): Excluding config file D:\Epic Games\UE_4.23\Engine\Config\Localization\WordCount.ini
+[2019.10.25-21.14.41:562][117]UATHelper: Packaging (HTML5): Excluding config file C:\Users\draco\Documents\Unreal Projects\EscapeTheRoom\Config\DefaultEditor.ini
+[2019.10.25-21.14.41:562][117]UATHelper: Packaging (HTML5): Excluding config file C:\Users\draco\Documents\Unreal Projects\EscapeTheRoom\Config\DefaultEditorPerProjectUserSettings.ini
+[2019.10.25-21.14.41:630][121]UATHelper: Packaging (HTML5): Cleaning Stage Directory: C:\Users\draco\Documents\Unreal Projects\EscapeTheRoom\Saved\StagedBuilds\HTML5
+[2019.10.25-21.14.41:645][122]UATHelper: Packaging (HTML5): Creating pak using staging manifest.
+[2019.10.25-21.14.41:895][137]UATHelper: Packaging (HTML5): Executing 1 UnrealPak command...
+[2019.10.25-21.14.43:197][215]UATHelper: Packaging (HTML5): Waiting for child processes to complete (1/1)
+[2019.10.25-21.14.43:197][215]UATHelper: Packaging (HTML5): Output from: "C:\Users\draco\Documents\Unreal Projects\EscapeTheRoom\EscapeTheRoom.uproject" "C:\Users\draco\Documents\Unreal Projects\EscapeTheRoom\Saved\StagedBuilds\HTML5\EscapeTheRoom\Content\Paks\EscapeTheRoom-HTML5.pak" -create="C:\Users\draco\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+Epic+Games+UE_4.23\PakList_EscapeTheRoom-HTML5.txt" -cryptokeys="C:\Users\draco\Documents\Unreal Projects\EscapeTheRoom\Saved\Cooked\HTML5\EscapeTheRoom\Metadata\Crypto.json" -order="C:\Users\draco\Documents\Unreal Projects\EscapeTheRoom\Build\HTML5\FileOpenOrder\CookerOpenOrder.log"  -multiprocess -abslog="C:\Users\draco\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+Epic+Games+UE_4.23\UnrealPak-EscapeTheRoom-HTML5-2019.10.25-17.14.41.txt"
+[2019.10.25-21.14.43:197][215]UATHelper: Packaging (HTML5):   LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2019.10.25-21.14.43:197][215]UATHelper: Packaging (HTML5):   LogPakFile: Display: Loading response file C:\Users\draco\AppData\Roaming\Unreal Engine\AutomationTool\Logs\D+Epic+Games+UE_4.23\PakList_EscapeTheRoom-HTML5.txt
+[2019.10.25-21.14.43:197][215]UATHelper: Packaging (HTML5):   LogPakFile: Display: Added 1508 entries to add to pak file.
+[2019.10.25-21.14.43:197][215]UATHelper: Packaging (HTML5):   LogPakFile: Display: Loading pak order file C:\Users\draco\Documents\Unreal Projects\EscapeTheRoom\Build\HTML5\FileOpenOrder\CookerOpenOrder.log...
+[2019.10.25-21.14.43:197][215]UATHelper: Packaging (HTML5):   LogPakFile: Display: Finished loading pak order file C:\Users\draco\Documents\Unreal Projects\EscapeTheRoom\Build\HTML5\FileOpenOrder\CookerOpenOrder.log.
+[2019.10.25-21.14.43:197][215]UATHelper: Packaging (HTML5):   LogPakFile: Display: Collecting files to add to pak file...
+[2019.10.25-21.14.43:197][215]UATHelper: Packaging (HTML5):   LogPakFile: Display: Collected 1508 files in 0.01s.
+[2019.10.25-21.14.43:197][215]UATHelper: Packaging (HTML5):   LogPakFile: Display: Creating pak C:\Users\draco\Documents\Unreal Projects\EscapeTheRoom\Saved\StagedBuilds\HTML5\EscapeTheRoom\Content\Paks\EscapeTheRoom-HTML5.pak.
+[2019.10.25-21.14.43:198][215]UATHelper: Packaging (HTML5):   LogPakFile: Display: Added 1508 files, 127544739 bytes total, time 0.62s.
+[2019.10.25-21.14.43:198][215]UATHelper: Packaging (HTML5):   LogPakFile: Display: Encryption - DISABLED
+[2019.10.25-21.14.43:198][215]UATHelper: Packaging (HTML5):   LogPakFile: Display: Unreal pak executed in 0.672751 seconds
+[2019.10.25-21.14.43:198][215]UATHelper: Packaging (HTML5): UnrealPak terminated with exit code 0
+[2019.10.25-21.14.43:211][216]UATHelper: Packaging (HTML5): Copying NonUFSFiles to staging directory: C:\Users\draco\Documents\Unreal Projects\EscapeTheRoom\Saved\StagedBuilds\HTML5
+[2019.10.25-21.14.43:227][217]UATHelper: Packaging (HTML5): ********** STAGE COMMAND COMPLETED **********
+[2019.10.25-21.14.43:227][217]UATHelper: Packaging (HTML5): ********** PACKAGE COMMAND STARTED **********
+[2019.10.25-21.14.43:227][217]UATHelper: Packaging (HTML5): Package C:\Users\draco\Documents\Unreal Projects\EscapeTheRoom\EscapeTheRoom.uproject
+[2019.10.25-21.14.43:227][217]UATHelper: Packaging (HTML5): Setting Emscripten SDK for packaging..
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): emcc ExitCode: 0
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): # Note: If you put paths relative to the home directory, do not forget
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): # os.path.expanduser
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): # Note: On Windows, remember to escape backslashes! I.e. PYTHON='c:\Python27\'
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): # is not valid, but PYTHON='c:\\Python27\\' and PYTHON='c:/Python27/'
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): # are.
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): import os
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): # This is used by external projects in order to find emscripten.  It is not used
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): # by emscripten itself.
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): EMSCRIPTEN_ROOT = os.path.expanduser(os.getenv('EMSCRIPTEN', 'D:\\Epic Games\\UE_4.23\\Engine\\Extras\\ThirdPartyNotUE\\emsdk\\emscripten\\1.38.31')) # directory
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): LLVM_ROOT = os.path.expanduser(os.getenv('LLVM', 'D:\\Epic Games\\UE_4.23\\Engine\\Extras\\ThirdPartyNotUE\\emsdk\\Win64\\clang\\e1.38.31_64bit')) # directory
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): BINARYEN_ROOT = 'D:\\Epic Games\\UE_4.23\\Engine\\Extras\\ThirdPartyNotUE\\emsdk\\Win64\\clang\\e1.38.31_64bit\\binaryen'
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): # If not specified, defaults to sys.executable.
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): # PYTHON = 'python'
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): # Add this if you have manually built the JS optimizer executable (in
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): # Emscripten/tools/optimizer) and want to run it from a custom location.
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): # Alternatively, you can set this as the environment variable
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): EMSCRIPTEN_NATIVE_OPTIMIZER = 'D:\\Epic Games\\UE_4.23\\Engine\\Extras\\ThirdPartyNotUE\\emsdk\\Win64\\clang\\e1.38.31_64bit\\optimizer.exe'
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): EMSCRIPTEN_NATIVE_OPTIMIZER = 'D:\\Epic Games\\UE_4.23\\Engine\\Extras\\ThirdPartyNotUE\\emsdk\\Win64\\clang\\e1.38.31_64bit\\optimizer.exe'
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): # See below for notes on which JS engine(s) you need
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): NODE_JS = os.path.expanduser(os.getenv('NODE', 'D:\\Epic Games\\UE_4.23\\Engine\\Extras\\ThirdPartyNotUE\\emsdk\\Win64\\node\\8.9.1_64bit\\bin\\node.exe')) # executable
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): SPIDERMONKEY_ENGINE = [os.path.expanduser(os.getenv('SPIDERMONKEY', 'js'))] # executable
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): V8_ENGINE = os.path.expanduser(os.getenv('V8', 'd8')) # executable
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): JAVA = 'java' # executable
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): TEMP_DIR = 'C:\\Users\\draco\\AppData\\Local\\Temp'
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): # CLOSURE_COMPILER = '..' # define this to not use the bundled version
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): ################################################################################
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): # Pick the JS engine to use for running the compiler. This engine must exist, or
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): # nothing can be compiled.
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): #
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): # This should be left on node.js, as that is the VM we test running the
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): # compiler in. Other VMs may or may not work.
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): COMPILER_ENGINE = NODE_JS
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): # All JS engines to use when running the automatic tests. Not all the engines in
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): # this list must exist (if they don't, they will be skipped in the test runner).
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): #
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): # Recommendation: If you already have node installed, use that. If you can, also
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): #                 build spidermonkey from source as well to get more test
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): #                 coverage.
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): JS_ENGINES = [NODE_JS] # add this if you have spidermonkey installed too, SPIDERMONKEY_ENGINE]
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): # Other options
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): #
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): # FROZEN_CACHE = True # never clears the cache, and disallows building to the cache
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): HTML5Platform.Automation: Compressed = False
+[2019.10.25-21.14.43:562][237]UATHelper: Packaging (HTML5): HTML5Platform.Automation: EnableIndexedDB = False
+[2019.10.25-21.14.43:563][237]UATHelper: Packaging (HTML5): HTML5Platform.Automation: Multithreading = False
+[2019.10.25-21.14.43:563][237]UATHelper: Packaging (HTML5): HTML5Platform.Automation: OffscreenCanvas = False
+[2019.10.25-21.14.43:563][237]UATHelper: Packaging (HTML5): Running: D:\Epic Games\UE_4.23\Engine\Extras\ThirdPartyNotUE\emsdk\Win64\python\2.7.13.1_64bit\python.exe "D:\Epic Games\UE_4.23\Engine\Extras\ThirdPartyNotUE\emsdk\emscripten\1.38.31\tools\file_packager.py" "C:\Users\draco\Documents\Unreal Projects\EscapeTheRoom\Binaries\HTML5\EscapeTheRoom.data" --preload . --js-output="C:\Users\draco\Documents\Unreal Projects\EscapeTheRoom\Binaries\HTML5\EscapeTheRoom.data.js" --no-heap-copy
+[2019.10.25-21.14.43:928][259]UATHelper: Packaging (HTML5):   Remember to build the main file with  -s FORCE_FILESYSTEM=1  so that it includes support for loading this file package
+[2019.10.25-21.14.43:944][260]UATHelper: Packaging (HTML5): Took 0.3740753s to run python.exe, ExitCode=0
+[2019.10.25-21.14.44:877][316]UATHelper: Packaging (HTML5): Build configuration is Development, so not compressing. Build Shipping configuration to compress files to save space.
+[2019.10.25-21.14.44:877][316]UATHelper: Packaging (HTML5): ********** PACKAGE COMMAND COMPLETED **********
+[2019.10.25-21.14.44:877][316]UATHelper: Packaging (HTML5): ********** ARCHIVE COMMAND STARTED **********
+[2019.10.25-21.14.44:877][316]UATHelper: Packaging (HTML5): Archiving to C:/Users/draco/Documents/Unreal Projects/EscapeTheRoom/Pie Out 2
+[2019.10.25-21.14.45:230][337]UATHelper: Packaging (HTML5): ********** ARCHIVE COMMAND COMPLETED **********
+[2019.10.25-21.14.45:230][337]UATHelper: Packaging (HTML5): BUILD SUCCESSFUL
+[2019.10.25-21.14.45:230][337]UATHelper: Packaging (HTML5): AutomationTool exiting with ExitCode=0 (Success)
+[2019.10.25-21.28.26:645][299]LogSlate: FSceneViewport::OnFocusLost() reason 0
+[2019.10.25-21.28.37:694][883]LogSlate: Only BGRA pngs, bmps or icos are supported in by External Image Picker
+[2019.10.25-21.29.13:534][996]LogInit: Warning: CVar named 'r.Mobile.EnableMovableSpotlights' marked up in RendererSettings was not found or is set to read-only
+[2019.10.25-21.29.18:129][244]LogInit: Warning: CVar named 'r.MobileNumDynamicPointLights' marked up in RendererSettings was not found or is set to read-only
+[2019.10.25-21.29.18:162][246]LogInit: Warning: CVar named 'r.MobileNumDynamicPointLights' marked up in RendererSettings was not found or is set to read-only
+[2019.10.25-21.29.18:480][265]LogInit: Warning: CVar named 'r.MobileNumDynamicPointLights' marked up in RendererSettings was not found or is set to read-only
+[2019.10.25-21.29.18:497][266]LogInit: Warning: CVar named 'r.MobileNumDynamicPointLights' marked up in RendererSettings was not found or is set to read-only
+[2019.10.25-21.29.18:896][290]LogInit: Warning: CVar named 'r.MobileNumDynamicPointLights' marked up in RendererSettings was not found or is set to read-only
+[2019.10.25-21.29.45:903][908]Cmd: CLOSE_SLATE_MAINFRAME
+[2019.10.25-21.29.45:925][908]LogUObjectHash: Compacting FUObjectHashTables data took   0.79ms
+[2019.10.25-21.29.46:013][908]LogSlate: Window 'Project Settings' being destroyed
+[2019.10.25-21.29.46:041][908]LogSlate: Window 'EscapeTheRoom - Unreal Editor' being destroyed
+[2019.10.25-21.29.46:234][909]Cmd: QUIT_EDITOR
+[2019.10.25-21.29.46:275][909]LogWindowsTextInputMethodSystem: Display: IME system now deactivated.
+[2019.10.25-21.29.46:296][909]LogExit: Preparing to exit.
+[2019.10.25-21.29.46:552][909]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.25-21.29.46:552][909]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.25-21.29.46:552][909]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.25-21.29.46:552][909]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.25-21.29.46:552][909]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.25-21.29.46:552][909]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.25-21.29.46:552][909]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.25-21.29.46:552][909]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.10.25-21.29.46:553][909]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.25-21.29.46:553][909]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.25-21.29.46:553][909]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.25-21.29.46:553][909]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.25-21.29.46:553][909]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.25-21.29.46:553][909]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.25-21.29.46:553][909]LogActorComponent: UnregisterComponent: (None.None) Not registered. Aborting.
+[2019.10.25-21.29.46:553][909]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.10.25-21.29.46:555][909]LogWorld: UWorld::CleanupWorld for None, bSessionEnded=true, bCleanupResources=true
+[2019.10.25-21.29.46:556][909]LogExit: Editor shut down
+[2019.10.25-21.29.46:556][909]LogExit: Transaction tracking system shut down
+[2019.10.25-21.29.46:562][909]LogDemo: Cleaned up 0 splitscreen connections with owner deletion
+[2019.10.25-21.29.46:788][909]LogExit: Object subsystem successfully closed.
+[2019.10.25-21.29.46:820][909]LogShaderCompilers: Display: Shaders left to compile 0
+[2019.10.25-21.29.46:832][909]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (674)
+[2019.10.25-21.29.46:832][909]LogModuleManager: Shutting down and abandoning module UATHelper (672)
+[2019.10.25-21.29.46:832][909]LogModuleManager: Shutting down and abandoning module LauncherServices (670)
+[2019.10.25-21.29.46:832][909]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (668)
+[2019.10.25-21.29.46:832][909]LogModuleManager: Shutting down and abandoning module SceneOutliner (666)
+[2019.10.25-21.29.46:832][909]LogModuleManager: Shutting down and abandoning module AddContentDialog (664)
+[2019.10.25-21.29.46:833][909]LogModuleManager: Shutting down and abandoning module WidgetCarousel (663)
+[2019.10.25-21.29.46:833][909]LogModuleManager: Shutting down and abandoning module EditorWidgets (660)
+[2019.10.25-21.29.46:833][909]LogModuleManager: Shutting down and abandoning module CollectionManager (658)
+[2019.10.25-21.29.46:833][909]LogModuleManager: Shutting down and abandoning module StatsViewer (656)
+[2019.10.25-21.29.46:833][909]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (654)
+[2019.10.25-21.29.46:833][909]LogModuleManager: Shutting down and abandoning module FoliageEdit (652)
+[2019.10.25-21.29.46:833][909]LogModuleManager: Shutting down and abandoning module LandscapeEditor (650)
+[2019.10.25-21.29.46:833][909]LogModuleManager: Shutting down and abandoning module MeshPaintMode (648)
+[2019.10.25-21.29.46:834][909]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (646)
+[2019.10.25-21.29.46:834][909]LogModuleManager: Shutting down and abandoning module ActorPickerMode (644)
+[2019.10.25-21.29.46:834][909]LogModuleManager: Shutting down and abandoning module GeometryMode (642)
+[2019.10.25-21.29.46:834][909]LogModuleManager: Shutting down and abandoning module TextureAlignMode (640)
+[2019.10.25-21.29.46:834][909]LogModuleManager: Shutting down and abandoning module BspMode (638)
+[2019.10.25-21.29.46:834][909]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (636)
+[2019.10.25-21.29.46:834][909]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (634)
+[2019.10.25-21.29.46:834][909]LogModuleManager: Shutting down and abandoning module AutomationWorker (632)
+[2019.10.25-21.29.46:834][909]LogModuleManager: Shutting down and abandoning module OculusMR (630)
+[2019.10.25-21.29.46:834][909]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (628)
+[2019.10.25-21.29.46:834][909]LogModuleManager: Shutting down and abandoning module MatineeToLevelSequence (626)
+[2019.10.25-21.29.46:834][909]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (624)
+[2019.10.25-21.29.46:834][909]LogModuleManager: Shutting down and abandoning module PlacementMode (623)
+[2019.10.25-21.29.46:834][909]LogModuleManager: Shutting down and abandoning module MaterialEditor (622)
+[2019.10.25-21.29.46:834][909]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (618)
+[2019.10.25-21.29.46:834][909]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (616)
+[2019.10.25-21.29.46:834][909]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (614)
+[2019.10.25-21.29.46:834][909]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (612)
+[2019.10.25-21.29.46:834][909]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (610)
+[2019.10.25-21.29.46:834][909]LogModuleManager: Shutting down and abandoning module WebMMedia (608)
+[2019.10.25-21.29.46:834][909]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (606)
+[2019.10.25-21.29.46:834][909]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (604)
+[2019.10.25-21.29.46:834][909]LogModuleManager: Shutting down and abandoning module SequenceRecorder (603)
+[2019.10.25-21.29.46:834][909]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (600)
+[2019.10.25-21.29.46:834][909]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (598)
+[2019.10.25-21.29.46:834][909]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (596)
+[2019.10.25-21.29.46:834][909]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (594)
+[2019.10.25-21.29.46:835][909]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (592)
+[2019.10.25-21.29.46:835][909]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (590)
+[2019.10.25-21.29.46:835][909]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (588)
+[2019.10.25-21.29.46:835][909]LogModuleManager: Shutting down and abandoning module MagicLeapCameraPreviewFactory (586)
+[2019.10.25-21.29.46:835][909]LogModuleManager: Shutting down and abandoning module MagicLeapMediaCodecFactory (584)
+[2019.10.25-21.29.46:835][909]LogModuleManager: Shutting down and abandoning module MagicLeapMediaFactory (582)
+[2019.10.25-21.29.46:835][909]LogModuleManager: Shutting down and abandoning module MagicLeapMediaEditor (580)
+[2019.10.25-21.29.46:835][909]LogModuleManager: Shutting down and abandoning module CharacterAI (578)
+[2019.10.25-21.29.46:835][909]LogModuleManager: Shutting down and abandoning module SmartSnapping (576)
+[2019.10.25-21.29.46:835][909]LogModuleManager: Shutting down and abandoning module SessionServices (574)
+[2019.10.25-21.29.46:835][909]LogModuleManager: Shutting down and abandoning module MeshPaint (572)
+[2019.10.25-21.29.46:835][909]LogModuleManager: Shutting down and abandoning module ViewportSnapping (570)
+[2019.10.25-21.29.46:835][909]LogModuleManager: Shutting down and abandoning module ViewportInteraction (568)
+[2019.10.25-21.29.46:835][909]LogModuleManager: Shutting down and abandoning module ClothPainter (566)
+[2019.10.25-21.29.46:835][909]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (565)
+[2019.10.25-21.29.46:835][909]LogModuleManager: Shutting down and abandoning module LogVisualizer (562)
+[2019.10.25-21.29.46:835][909]LogModuleManager: Shutting down and abandoning module IntroTutorials (560)
+[2019.10.25-21.29.46:835][909]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (559)
+[2019.10.25-21.29.46:835][909]LogModuleManager: Shutting down and abandoning module LuminPlatformEditor (556)
+[2019.10.25-21.29.46:835][909]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (554)
+[2019.10.25-21.29.46:835][909]LogModuleManager: Shutting down and abandoning module HTML5PlatformEditor (552)
+[2019.10.25-21.29.46:835][909]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (550)
+[2019.10.25-21.29.46:835][909]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (549)
+[2019.10.25-21.29.47:730][909]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (546)
+[2019.10.25-21.29.47:730][909]LogModuleManager: Shutting down and abandoning module LuminRuntimeSettings (544)
+[2019.10.25-21.29.47:730][909]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (542)
+[2019.10.25-21.29.47:730][909]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (540)
+[2019.10.25-21.29.47:730][909]LogModuleManager: Shutting down and abandoning module TimeManagementEditor (538)
+[2019.10.25-21.29.47:731][909]LogModuleManager: Shutting down and abandoning module InputBindingEditor (536)
+[2019.10.25-21.29.47:731][909]LogModuleManager: Shutting down and abandoning module MergeActors (534)
+[2019.10.25-21.29.47:731][909]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (532)
+[2019.10.25-21.29.47:731][909]LogModuleManager: Shutting down and abandoning module LocalizationService (531)
+[2019.10.25-21.29.47:731][909]LogModuleManager: Shutting down and abandoning module HardwareTargeting (528)
+[2019.10.25-21.29.47:731][909]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (526)
+[2019.10.25-21.29.47:731][909]LogModuleManager: Shutting down and abandoning module UndoHistory (524)
+[2019.10.25-21.29.47:731][909]LogModuleManager: Shutting down and abandoning module XmlParser (522)
+[2019.10.25-21.29.47:731][909]LogModuleManager: Shutting down and abandoning module Blutility (520)
+[2019.10.25-21.29.47:731][909]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (518)
+[2019.10.25-21.29.47:731][909]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (517)
+[2019.10.25-21.29.47:731][909]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (514)
+[2019.10.25-21.29.47:731][909]LogModuleManager: Shutting down and abandoning module SettingsEditor (512)
+[2019.10.25-21.29.47:731][909]LogModuleManager: Shutting down and abandoning module ProjectLauncher (510)
+[2019.10.25-21.29.47:731][909]LogModuleManager: Shutting down and abandoning module SessionFrontend (508)
+[2019.10.25-21.29.47:731][909]LogModuleManager: Shutting down and abandoning module ProfilerClient (506)
+[2019.10.25-21.29.47:731][909]LogModuleManager: Shutting down and abandoning module DeviceManager (504)
+[2019.10.25-21.29.47:731][909]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (503)
+[2019.10.25-21.29.47:775][909]LogModuleManager: Shutting down and abandoning module AutomationController (500)
+[2019.10.25-21.29.47:775][909]LogModuleManager: Shutting down and abandoning module AutomationWindow (498)
+[2019.10.25-21.29.47:775][909]LogModuleManager: Shutting down and abandoning module Layers (496)
+[2019.10.25-21.29.47:775][909]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (494)
+[2019.10.25-21.29.47:775][909]LogModuleManager: Shutting down and abandoning module DetailCustomizations (492)
+[2019.10.25-21.29.47:775][909]LogModuleManager: Shutting down and abandoning module PackagesDialog (490)
+[2019.10.25-21.29.47:775][909]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (488)
+[2019.10.25-21.29.47:775][909]LogModuleManager: Shutting down and abandoning module Persona (486)
+[2019.10.25-21.29.47:775][909]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (485)
+[2019.10.25-21.29.47:775][909]LogModuleManager: Shutting down and abandoning module AnimGraph (483)
+[2019.10.25-21.29.47:775][909]LogModuleManager: Shutting down and abandoning module Kismet (480)
+[2019.10.25-21.29.47:776][909]LogModuleManager: Shutting down and abandoning module KismetWidgets (479)
+[2019.10.25-21.29.47:776][909]LogModuleManager: Shutting down and abandoning module GraphEditor (476)
+[2019.10.25-21.29.47:776][909]LogModuleManager: Shutting down and abandoning module StructViewer (474)
+[2019.10.25-21.29.47:776][909]LogModuleManager: Shutting down and abandoning module ClassViewer (472)
+[2019.10.25-21.29.47:776][909]LogModuleManager: Shutting down and abandoning module Toolbox (470)
+[2019.10.25-21.29.47:776][909]LogModuleManager: Shutting down and abandoning module ModuleUI (468)
+[2019.10.25-21.29.47:776][909]LogModuleManager: Shutting down and abandoning module MovieSceneTools (466)
+[2019.10.25-21.29.47:776][909]LogModuleManager: Shutting down and abandoning module OutputLog (464)
+[2019.10.25-21.29.47:777][909]LogModuleManager: Shutting down and abandoning module GammaUI (462)
+[2019.10.25-21.29.47:777][909]LogModuleManager: Shutting down and abandoning module Documentation (460)
+[2019.10.25-21.29.47:777][909]LogModuleManager: Shutting down and abandoning module LiveCoding (458)
+[2019.10.25-21.29.47:777][909]LogModuleManager: Shutting down and abandoning module LevelSequence (456)
+[2019.10.25-21.29.47:777][909]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (454)
+[2019.10.25-21.29.47:777][909]LogModuleManager: Shutting down and abandoning module MovieScene (452)
+[2019.10.25-21.29.47:777][909]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (450)
+[2019.10.25-21.29.47:777][909]LogModuleManager: Shutting down and abandoning module LauncherPlatform (448)
+[2019.10.25-21.29.47:777][909]LogModuleManager: Shutting down and abandoning module AnalyticsET (446)
+[2019.10.25-21.29.47:777][909]LogModuleManager: Shutting down and abandoning module PortalServices (444)
+[2019.10.25-21.29.47:777][909]LogModuleManager: Shutting down and abandoning module PortalRpc (442)
+[2019.10.25-21.29.47:777][909]LogModuleManager: Shutting down and abandoning module MessagingRpc (440)
+[2019.10.25-21.29.47:777][909]LogModuleManager: Shutting down and abandoning module AIModule (438)
+[2019.10.25-21.29.47:777][909]LogModuleManager: Shutting down and abandoning module GameplayDebugger (437)
+[2019.10.25-21.29.47:777][909]LogModuleManager: Shutting down and abandoning module AITestSuite (435)
+[2019.10.25-21.29.47:777][909]LogModuleManager: Shutting down and abandoning module NavigationSystem (433)
+[2019.10.25-21.29.47:777][909]LogModuleManager: Shutting down and abandoning module DesktopPlatform (430)
+[2019.10.25-21.29.47:777][909]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (428)
+[2019.10.25-21.29.47:781][909]LogModuleManager: Shutting down and abandoning module ProfilerService (426)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module TaskGraph (424)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module ScreenshotTools (422)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module SteamVRController (420)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (418)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (416)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module OculusEditor (414)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module OculusInput (412)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (410)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module EditableMesh (408)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (406)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module CableComponent (404)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module AudioCapture (402)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (400)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (398)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module AppleImageUtils (396)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module AndroidPermission (394)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module NUTUnrealEngine4 (392)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module NetcodeUnitTest (390)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module MediaCompositing (388)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module ImgMedia (386)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module MagicLeapHelperVulkan (384)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module MagicLeapHelperOpenGL (382)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module MagicLeapAudio (380)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module HTML5Networking (378)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (376)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (374)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module BackChannel (372)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (370)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module AutomationUtils (368)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module AlembicImporter (366)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module AlembicLibrary (365)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module GeometryCache (364)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (363)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module VariantManagerContent (358)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (356)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (354)
+[2019.10.25-21.29.47:794][909]LogModuleManager: Shutting down and abandoning module PluginBrowser (352)
+[2019.10.25-21.29.47:795][909]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (350)
+[2019.10.25-21.29.47:795][909]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (348)
+[2019.10.25-21.29.47:795][909]LogModuleManager: Shutting down and abandoning module CurveEditorTools (346)
+[2019.10.25-21.29.47:795][909]LogModuleManager: Shutting down and abandoning module CurveEditor (345)
+[2019.10.25-21.29.47:795][909]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (342)
+[2019.10.25-21.29.47:795][909]LogModuleManager: Shutting down and abandoning module CryptoKeys (340)
+[2019.10.25-21.29.47:795][909]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (338)
+[2019.10.25-21.29.47:795][909]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (336)
+[2019.10.25-21.29.47:795][909]LogModuleManager: Shutting down and abandoning module UObjectPlugin (334)
+[2019.10.25-21.29.47:795][909]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (332)
+[2019.10.25-21.29.47:795][909]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (330)
+[2019.10.25-21.29.47:795][909]LogModuleManager: Shutting down and abandoning module GitSourceControl (328)
+[2019.10.25-21.29.47:795][909]LogModuleManager: Shutting down and abandoning module SourceControl (327)
+[2019.10.25-21.29.47:795][909]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (324)
+[2019.10.25-21.29.47:795][909]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (322)
+[2019.10.25-21.29.47:795][909]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (320)
+[2019.10.25-21.29.47:795][909]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (318)
+[2019.10.25-21.29.47:795][909]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeEditor (316)
+[2019.10.25-21.29.47:795][909]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (314)
+[2019.10.25-21.29.47:795][909]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (312)
+[2019.10.25-21.29.47:795][909]LogModuleManager: Shutting down and abandoning module Paper2DEditor (310)
+[2019.10.25-21.29.47:795][909]LogModuleManager: Shutting down and abandoning module SignificanceManager (308)
+[2019.10.25-21.29.47:795][909]LogModuleManager: Shutting down and abandoning module RuntimePhysXCooking (306)
+[2019.10.25-21.29.47:795][909]LogModuleManager: Shutting down and abandoning module PhysXVehiclesEditor (304)
+[2019.10.25-21.29.47:795][909]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (300)
+[2019.10.25-21.29.47:796][909]LogModuleManager: Shutting down and abandoning module ActorSequence (298)
+[2019.10.25-21.29.47:796][909]LogModuleManager: Shutting down and abandoning module UdpMessaging (296)
+[2019.10.25-21.29.47:897][909]LogModuleManager: Shutting down and abandoning module TcpMessaging (294)
+[2019.10.25-21.29.47:998][909]LogModuleManager: Shutting down and abandoning module MagicLeapIdentity (292)
+[2019.10.25-21.29.47:998][909]LogModuleManager: Shutting down and abandoning module MagicLeapSecureStorage (290)
+[2019.10.25-21.29.47:998][909]LogModuleManager: Shutting down and abandoning module MagicLeapHandTracking (288)
+[2019.10.25-21.29.47:998][909]LogModuleManager: Shutting down and abandoning module MagicLeapEyeTracker (286)
+[2019.10.25-21.29.47:998][909]LogModuleManager: Shutting down and abandoning module MagicLeapController (284)
+[2019.10.25-21.29.47:998][909]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2019.10.25-21.29.47:998][909]LogModuleManager: Shutting down and abandoning module MagicLeapAR (282)
+[2019.10.25-21.29.47:998][909]LogModuleManager: Shutting down and abandoning module AugmentedReality (281)
+[2019.10.25-21.29.47:998][909]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (278)
+[2019.10.25-21.29.47:998][909]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (276)
+[2019.10.25-21.29.47:998][909]LogModuleManager: Shutting down and abandoning module FacialAnimation (274)
+[2019.10.25-21.29.47:998][909]LogModuleManager: Shutting down and abandoning module DataValidation (272)
+[2019.10.25-21.29.47:998][909]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (270)
+[2019.10.25-21.29.47:998][909]LogModuleManager: Shutting down and abandoning module LevelEditor (269)
+[2019.10.25-21.29.47:999][909]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (268)
+[2019.10.25-21.29.47:999][909]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (266)
+[2019.10.25-21.29.47:999][909]LogModuleManager: Shutting down and abandoning module MainFrame (264)
+[2019.10.25-21.29.47:999][909]LogModuleManager: Shutting down and abandoning module HotReload (263)
+[2019.10.25-21.29.47:999][909]LogModuleManager: Shutting down and abandoning module ContentBrowser (259)
+[2019.10.25-21.29.48:001][909]LogModuleManager: Shutting down and abandoning module TreeMap (257)
+[2019.10.25-21.29.48:001][909]LogModuleManager: Shutting down and abandoning module AnimationSharing (254)
+[2019.10.25-21.29.48:001][909]LogModuleManager: Shutting down and abandoning module LightPropagationVolumeRuntime (252)
+[2019.10.25-21.29.48:001][909]LogModuleManager: Shutting down and abandoning module Paper2D (250)
+[2019.10.25-21.29.48:001][909]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (248)
+[2019.10.25-21.29.48:001][909]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (246)
+[2019.10.25-21.29.48:001][909]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (244)
+[2019.10.25-21.29.48:001][909]LogModuleManager: Shutting down and abandoning module PacketHandler (242)
+[2019.10.25-21.29.48:001][909]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (240)
+[2019.10.25-21.29.48:001][909]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntime (238)
+[2019.10.25-21.29.48:001][909]LogModuleManager: Shutting down and abandoning module MediaAssets (236)
+[2019.10.25-21.29.48:001][909]LogModuleManager: Shutting down and abandoning module Overlay (234)
+[2019.10.25-21.29.48:001][909]LogModuleManager: Shutting down and abandoning module OverlayEditor (233)
+[2019.10.25-21.29.48:001][909]LogModuleManager: Shutting down and abandoning module VREditor (230)
+[2019.10.25-21.29.48:001][909]LogModuleManager: Shutting down and abandoning module StringTableEditor (228)
+[2019.10.25-21.29.48:001][909]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (226)
+[2019.10.25-21.29.48:001][909]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (224)
+[2019.10.25-21.29.48:001][909]LogModuleManager: Shutting down and abandoning module FunctionalTesting (222)
+[2019.10.25-21.29.48:002][909]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (220)
+[2019.10.25-21.29.48:002][909]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (219)
+[2019.10.25-21.29.48:002][909]LogModuleManager: Shutting down and abandoning module UMG (216)
+[2019.10.25-21.29.48:002][909]LogModuleManager: Shutting down and abandoning module UMGEditor (215)
+[2019.10.25-21.29.48:002][909]LogModuleManager: Shutting down and abandoning module Sequencer (214)
+[2019.10.25-21.29.48:002][909]LogModuleManager: Shutting down and abandoning module MessageLog (211)
+[2019.10.25-21.29.48:002][909]LogModuleManager: Shutting down and abandoning module SlateReflector (206)
+[2019.10.25-21.29.48:002][909]LogModuleManager: Shutting down and abandoning module Slate (204)
+[2019.10.25-21.29.48:002][909]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (202)
+[2019.10.25-21.29.48:002][909]LogModuleManager: Shutting down and abandoning module EditorStyle (200)
+[2019.10.25-21.29.48:003][909]LogModuleManager: Shutting down and abandoning module UnrealEd (198)
+[2019.10.25-21.29.48:003][909]LogModuleManager: Shutting down and abandoning module MRMesh (196)
+[2019.10.25-21.29.48:003][909]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (194)
+[2019.10.25-21.29.48:003][909]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (192)
+[2019.10.25-21.29.48:003][909]LogModuleManager: Shutting down and abandoning module XAudio2 (190)
+[2019.10.25-21.29.48:003][909]LogModuleManager: Shutting down and abandoning module Networking (188)
+[2019.10.25-21.29.48:003][909]LogModuleManager: Shutting down and abandoning module Core (186)
+[2019.10.25-21.29.48:003][909]LogModuleManager: Shutting down and abandoning module KismetCompiler (184)
+[2019.10.25-21.29.48:003][909]LogModuleManager: Shutting down and abandoning module MeshUtilities (182)
+[2019.10.25-21.29.48:003][909]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (181)
+[2019.10.25-21.29.48:003][909]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (180)
+[2019.10.25-21.29.48:003][909]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (179)
+[2019.10.25-21.29.48:003][909]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (177)
+[2019.10.25-21.29.48:003][909]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (175)
+[2019.10.25-21.29.48:003][909]LogModuleManager: Shutting down and abandoning module MaterialBaking (171)
+[2019.10.25-21.29.48:003][909]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (166)
+[2019.10.25-21.29.48:003][909]LogModuleManager: Shutting down and abandoning module DerivedDataCache (164)
+[2019.10.25-21.29.48:094][909]LogDerivedDataCache: Shutdown
+[2019.10.25-21.29.48:094][909]LogModuleManager: Shutting down and abandoning module XGEController (162)
+[2019.10.25-21.29.48:094][909]LogModuleManager: Shutting down and abandoning module TargetPlatform (160)
+[2019.10.25-21.29.48:094][909]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (159)
+[2019.10.25-21.29.48:094][909]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (157)
+[2019.10.25-21.29.48:094][909]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (155)
+[2019.10.25-21.29.48:094][909]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (153)
+[2019.10.25-21.29.48:094][909]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (151)
+[2019.10.25-21.29.48:095][909]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (149)
+[2019.10.25-21.29.48:095][909]LogModuleManager: Shutting down and abandoning module TextureFormatPVR (147)
+[2019.10.25-21.29.48:095][909]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (145)
+[2019.10.25-21.29.48:095][909]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (143)
+[2019.10.25-21.29.48:095][909]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (141)
+[2019.10.25-21.29.48:095][909]LogModuleManager: Shutting down and abandoning module ImageWrapper (140)
+[2019.10.25-21.29.48:095][909]LogModuleManager: Shutting down and abandoning module TextureFormatAndroid (137)
+[2019.10.25-21.29.48:095][909]LogModuleManager: Shutting down and abandoning module AudioFormatOpus (135)
+[2019.10.25-21.29.48:095][909]LogModuleManager: Shutting down and abandoning module AudioFormatOgg (133)
+[2019.10.25-21.29.48:095][909]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (131)
+[2019.10.25-21.29.48:095][909]LogModuleManager: Shutting down and abandoning module LuminTargetPlatform (129)
+[2019.10.25-21.29.48:096][909]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (127)
+[2019.10.25-21.29.48:096][909]LogModuleManager: Shutting down and abandoning module LinuxServerTargetPlatform (125)
+[2019.10.25-21.29.48:096][909]LogModuleManager: Shutting down and abandoning module LinuxNoEditorTargetPlatform (123)
+[2019.10.25-21.29.48:096][909]LogModuleManager: Shutting down and abandoning module LinuxClientTargetPlatform (121)
+[2019.10.25-21.29.48:096][909]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (119)
+[2019.10.25-21.29.48:097][909]LogModuleManager: Shutting down and abandoning module Messaging (117)
+[2019.10.25-21.29.48:097][909]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (115)
+[2019.10.25-21.29.48:097][909]LogModuleManager: Shutting down and abandoning module HTML5TargetPlatform (113)
+[2019.10.25-21.29.48:097][909]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (111)
+[2019.10.25-21.29.48:104][909]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (109)
+[2019.10.25-21.29.48:104][909]LogModuleManager: Shutting down and abandoning module WindowsServerTargetPlatform (107)
+[2019.10.25-21.29.48:104][909]LogModuleManager: Shutting down and abandoning module WindowsNoEditorTargetPlatform (105)
+[2019.10.25-21.29.48:104][909]LogModuleManager: Shutting down and abandoning module WindowsClientTargetPlatform (103)
+[2019.10.25-21.29.48:104][909]LogModuleManager: Shutting down and abandoning module MacTargetPlatform (101)
+[2019.10.25-21.29.48:104][909]LogModuleManager: Shutting down and abandoning module MacServerTargetPlatform (99)
+[2019.10.25-21.29.48:104][909]LogModuleManager: Shutting down and abandoning module MacNoEditorTargetPlatform (97)
+[2019.10.25-21.29.48:104][909]LogModuleManager: Shutting down and abandoning module MacClientTargetPlatform (95)
+[2019.10.25-21.29.48:104][909]LogModuleManager: Shutting down and abandoning module AllDesktopTargetPlatform (93)
+[2019.10.25-21.29.48:104][909]LogModuleManager: Shutting down and abandoning module InputCore (90)
+[2019.10.25-21.29.48:104][909]LogModuleManager: Shutting down and abandoning module Settings (88)
+[2019.10.25-21.29.48:104][909]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (86)
+[2019.10.25-21.29.48:104][909]LogModuleManager: Shutting down and abandoning module PhysXCooking (84)
+[2019.10.25-21.29.48:104][909]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (82)
+[2019.10.25-21.29.48:105][909]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (81)
+[2019.10.25-21.29.48:105][909]LogModuleManager: Shutting down and abandoning module SteamVR (78)
+[2019.10.25-21.29.48:105][909]LogHMD: Freeing OpenVRDLLHandle.
+[2019.10.25-21.29.48:105][909]LogModuleManager: Shutting down and abandoning module OculusHMD (76)
+[2019.10.25-21.29.48:105][909]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2019.10.25-21.29.48:105][909]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (72)
+[2019.10.25-21.29.48:105][909]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (70)
+[2019.10.25-21.29.48:105][909]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (66)
+[2019.10.25-21.29.48:105][909]LogModuleManager: Shutting down and abandoning module XMPP (61)
+[2019.10.25-21.29.48:106][909]LogModuleManager: Shutting down and abandoning module WebSockets (60)
+[2019.10.25-21.29.48:117][909]LogModuleManager: Shutting down and abandoning module HTTP (57)
+[2019.10.25-21.29.48:117][909]LogHttp: Display: Http module shutting down, but needs to wait on 1 outstanding Http requests:
+[2019.10.25-21.29.48:117][909]LogHttp: Display: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BF4990F9A-4E8C-6CFB-6B31-509E2EF9D459%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.23.0-8386587%2B%2B%2BUE4%2BRelease-4.23&UserID=3a1dd0114a84ae82635bae87d853d5a3%7Ce9022c6f7890478b8b17352fdeaaf2d4%7C09d41cde-c8c1-405c-9fb3-11f960df94a1&AppEnvironment=datacollector-binary&UploadType=eteventstream] status=Processing
+[2019.10.25-21.29.48:127][909]LogModuleManager: Shutting down and abandoning module SSL (56)
+[2019.10.25-21.29.48:129][909]LogModuleManager: Shutting down and abandoning module WmfMedia (52)
+[2019.10.25-21.29.48:130][909]LogModuleManager: Shutting down and abandoning module Media (51)
+[2019.10.25-21.29.48:131][909]LogModuleManager: Shutting down and abandoning module MagicLeap (48)
+[2019.10.25-21.29.48:131][909]LogModuleManager: Shutting down and abandoning module DatasmithContent (46)
+[2019.10.25-21.29.48:131][909]LogModuleManager: Shutting down and abandoning module AISupportModule (44)
+[2019.10.25-21.29.48:131][909]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (42)
+[2019.10.25-21.29.48:131][909]LogModuleManager: Shutting down and abandoning module PlatformCrypto (40)
+[2019.10.25-21.29.48:131][909]LogModuleManager: Shutting down and abandoning module AnimationModifiers (38)
+[2019.10.25-21.29.48:131][909]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2019.10.25-21.29.48:131][909]LogModuleManager: Shutting down and abandoning module AudioEditor (34)
+[2019.10.25-21.29.48:132][909]LogModuleManager: Shutting down and abandoning module TextureCompressor (32)
+[2019.10.25-21.29.48:132][909]LogModuleManager: Shutting down and abandoning module RenderCore (30)
+[2019.10.25-21.29.48:132][909]LogModuleManager: Shutting down and abandoning module Landscape (28)
+[2019.10.25-21.29.48:132][909]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (26)
+[2019.10.25-21.29.48:132][909]LogModuleManager: Shutting down and abandoning module OpenGLDrv (24)
+[2019.10.25-21.29.48:132][909]LogModuleManager: Shutting down and abandoning module D3D11RHI (22)
+[2019.10.25-21.29.48:133][909]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (20)
+[2019.10.25-21.29.48:133][909]LogModuleManager: Shutting down and abandoning module Renderer (18)
+[2019.10.25-21.29.48:133][909]LogModuleManager: Shutting down and abandoning module Engine (16)
+[2019.10.25-21.29.48:133][909]LogModuleManager: Shutting down and abandoning module CoreUObject (14)
+[2019.10.25-21.29.48:133][909]LogModuleManager: Shutting down and abandoning module NetworkFile (12)
+[2019.10.25-21.29.48:133][909]LogModuleManager: Shutting down and abandoning module CookedIterativeFile (10)
+[2019.10.25-21.29.48:133][909]LogModuleManager: Shutting down and abandoning module StreamingFile (8)
+[2019.10.25-21.29.48:133][909]LogModuleManager: Shutting down and abandoning module SandboxFile (6)
+[2019.10.25-21.29.48:133][909]LogModuleManager: Shutting down and abandoning module PakFile (4)
+[2019.10.25-21.29.48:133][909]LogModuleManager: Shutting down and abandoning module RSA (3)
+[2019.10.25-21.29.48:134][909]LogD3D11RHI: Shutdown
+[2019.10.25-21.29.48:134][909]LogD3D11RHI: CleanupD3DDevice
+[2019.10.25-21.29.48:135][909]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.25-21.29.48:135][909]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.25-21.29.48:135][909]LogRendererCore: FGlobalDynamicReadBuffer::Cleanup()
+[2019.10.25-21.29.48:221][909]LogD3D11RHI: ~FD3D11DynamicRHI
+[2019.10.25-21.29.48:230][909]LogExit: Exiting.
+[2019.10.25-21.29.48:253][909]Log file closed, 10/25/19 17:29:48
